@@ -1,0 +1,19 @@
+DELL Unix System V Release 4.0 Issue 2.2
+Released in 1992 by Dell Computer Corporation
+For DELL AT386 PC compatible computers
+
+Dell Unix, first introduced in 1989, was an adaptation of AT&T Unix
+intended for Dell hardware. Although Dell Unix received much praise,
+Dell found they could not reasonably support it on non-Dell hardware,
+as many customers wanted, and in 1993 discontinued it.
+
+More information:
+
+https://virtuallyfun.com/wordpress/2012/03/20/dell-unix-lives-again/
+https://technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/
+
+Archive includes 3.5" 1.44mb floppy distribution disk images, and
+cpio format tape distribution images.
+
+Note: The floppy disk are non-DOS disk disks and will not open in 
+WinImage.

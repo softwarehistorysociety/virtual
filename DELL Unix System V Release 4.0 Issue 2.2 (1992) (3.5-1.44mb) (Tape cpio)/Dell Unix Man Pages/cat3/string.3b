@@ -1,0 +1,66 @@
+
+
+
+string(3)          UNIX System V(BSD Compatibility Package)           string(3)
+
+
+NAME
+      _ssss_tttt_rrrr_iiii_nnnn_gggg:  _ssss_tttt_rrrr_cccc_aaaa_ssss_eeee_cccc_mmmm_pppp, _ssss_tttt_rrrr_nnnn_cccc_aaaa_ssss_eeee_cccc_mmmm_pppp - string operations
+
+SYNOPSIS
+      _cccc_cccc [ _f_l_a_g. . . ] _f_i_l_e . . . _----_llll_uuuu_cccc_bbbb
+
+      _iiii_nnnn_tttt _ssss_tttt_rrrr_cccc_aaaa_ssss_eeee_cccc_mmmm_pppp_((((_ssss_1111_,,,, _ssss_2222_))))
+      _cccc_hhhh_aaaa_rrrr _****_ssss_1111_,,,, _****_ssss_2222_;;;;
+
+      _iiii_nnnn_tttt _ssss_tttt_rrrr_nnnn_cccc_aaaa_ssss_eeee_cccc_mmmm_pppp_((((_ssss_1111_,,,, _ssss_2222_,,,, _nnnn_))))
+      _cccc_hhhh_aaaa_rrrr _****_ssss_1111_,,,, _****_ssss_2222_;;;;
+      _iiii_nnnn_tttt _nnnn_;;;;
+
+DESCRIPTION
+      The _ssss_tttt_rrrr_cccc_aaaa_ssss_eeee_cccc_mmmm_pppp and _ssss_tttt_rrrr_nnnn_cccc_aaaa_ssss_eeee_cccc_mmmm_pppp routines compare the strings and ignore
+      differences in case. These routines assume the ASCII character set when
+      equating lower and upper case characters.
+
+      These functions operate on null-terminated strings.  They do not check
+      for overflow of any receiving string.
+
+SEE ALSO
+      _bbbb_ssss_tttt_rrrr_iiii_nnnn_gggg(3)
+
+      _mmmm_aaaa_llll_llll_oooo_cccc(3C), _ssss_tttt_rrrr_iiii_nnnn_gggg(3C) in the _P_r_o_g_r_a_m_m_e_r'_s _R_e_f_e_r_e_n_c_e _M_a_n_u_a_l
+
+NOTES
+      _ssss_tttt_rrrr_cccc_aaaa_ssss_eeee_cccc_mmmm_pppp and _ssss_tttt_rrrr_nnnn_cccc_aaaa_ssss_eeee_cccc_mmmm_pppp use native character comparison as above and
+      assume the ASCII character set.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10/89                                                                    Page 1
+
+
+
+
+

@@ -1,0 +1,1552 @@
+cc(1): cc - C compiler  
+chown(1): chown - change file owner  
+cls(1): cls - clear the terminal screen  
+cmchk(1): cmchk - report hard disk block size  
+cpio(1): cpio - copy file archives in and out  
+compress(1): compress, uncompress, zcat - compress data for storage, uncompress and display compressed files  
+convert(1): convert - convert archive files to common formats  
+dos(1): doscat, doscp, dosdir, dosformat, dosmkdir, dosls, dosrm, dosrmdir - access and manipulate DOS files  
+crontab(1): crontab - user crontab file  
+deroff(1): deroff - remove nroff/troff, tbl, and eqn constructs  
+diction(1): diction, explain - print wordy sentences; thesaurus for diction  
+diskcmp(1): diskcmp - compare diskette images  
+diskcp(1): diskcp - copy diskette images  
+dtype(1): dtype - determines disk type  
+dos2unix(1): dos2unix - convert text files from MS-DOS format to Unix format  
+expr(1): expr - evaluate arguments as an expression  
+from(1): from - who is my mail from?  
+gated(1): gated - gateway routing daemon  
+hello(1): hello - write to another user  
+gencat(1): gencat - generate a formatted message catalogue  
+intro(1): intro - introduction to commands and application programs  
+imageb(1): imageb - file system image backup  
+ipcs(1): ipcs - report inter-process communication facilities status  
+slipdialout(1): slipdialout - establish SLIP connection over dialout modem.  
+keyspeed(1): keyspeed - set keyboard typematic rate and delay  
+ln(1): ln - link files  
+login(1): login - sign on  
+ls(1): ls - list contents of directory  
+machid(1): machid - get processor type truth value  
+mkmsgs(1): mkmsgs - create message files for use by gettxt  
+makewhatiz(1): makewhatiz - generate database for whatis command from (possibly compressed) manual pages  
+mtio(1): mtio - magnetic tape input/output  
+mouseadmin(1): mouseadmin - mouse administration  
+newvt(1): newvt - opens virtual terminals.  
+passwd(1): passwd - change login password and password attributes  
+powerdown(1): powerdown - prepare the system for turning off the power  
+ps(1): ps - report process status  
+rename(1): rename - change the name of a file  
+ripquery(1): ripquery - query RIP gateways  
+setcolor(1): setcolor, setcolour - set screen color  
+setkey(1): setkey - assigns the function keys  
+sh(1): sh, jsh, rsh - command interpreters: standard shell, job control shell, restricted shell  
+setnodename(1): setnodename - node name change utility  
+showcfg(1): showcfg - Dell Hardware/Software Information Display  
+showmount(1): showmount - show NFS filesystems mounted or available for mount  
+slipattach(1): slipattach, slipdetach - attach and detach serial lines as network interfaces using SLIP.  
+sliplogin(1): sliplogin - SLIP login shell.  
+unshare_rfs(1m): unshare - make local RFS resource unavailable for mounting by remote systems  
+slipon(1): slipon - communicate between tty and stream using SLIP.  
+sort(1): sort - sort and/or merge files  
+stty(1): stty - set the options for a terminal  
+style(1): style - analyze surface characteristics of a document  
+tape(1): tape - magnetic tape maintenance  
+tapecntl(1): tapecntl - tape control for tape device  
+tar(1): tar - tape file archiver  
+test(1): test - condition evaluation command  
+tip(1): tip, cu - connect to a remote system  
+trchan(1): trchan - translate character sets  
+true(1): true, false - provide truth values  
+tset(1): tset - provide information to set terminal modes  
+unix2dos(1): unix2dos - convert text files from Unix format to MS-DOS format  
+uustat(1): uustat - uucp status inquiry and job control  
+vtlmgr(1): vtlmgr - monitors and opens virtual terminals.  
+wc(1): wc - word count  
+write(1): write - write to another user  
+x286emul(1): x286emul - emulate XENIX 80286  
+addbib(1b): addbib - create or extend a bibliographic database  
+apropos(1b): apropos - locate commands by keyword lookup  
+arch(1b): arch - display the architecture of the current host  
+basename(1b): basename - display portions of pathnames  
+biff(1b): biff - give notice of incoming mail messages  
+cc(1b): cc - C compiler  
+checknr(1b): checknr - check nroff and troff input files; report possible errors  
+chown(1b): chown - change file owner  
+deroff(1b): deroff - remove nroff, troff, tbl and eqn constructs  
+df(1b): df - report free disk space on file systems  
+diffmk(1b): diffmk - mark differences between versions of a troff input file  
+echo(1b): echo - echo arguments  
+eqn(1b): eqn, neqn, checkeq - typeset mathematics  
+fsirand(1b): fsirand - install random inode generation numbers  
+groups(1b): groups - display a user's group memberships  
+hostid(1b): hostid - print the numeric identifier of the current host  
+hostname(1b): hostname - set or print name of current host system  
+indxbib(1b): indxbib - create an inverted index to a bibliographic database  
+install(1b): install - install files  
+kbdcomp(1): kbdcomp - compile code set and keyboard map tables  
+kbdload(1): kbdload - load or link kbd tables  
+kbdpipe(1): kbdpipe - use the kbd module in a pipeline  
+kbdset(1): kbdset - attach to kbd mapping tables, set modes  
+lastcomm(1b): lastcomm - show the last commands executed, in reverse order  
+ld(1b): ld - link editor, dynamic link editor  
+ln(1b): ln - make hard or symbolic links to files  
+logger(1b): logger - add entries to the system log  
+look(1b): look - find words in the system dictionary or lines in a sorted list  
+lookbib(1b): lookbib - find references in a bibliographic database  
+lpq(1b): lpq - display the queue of printer jobs  
+lpr(1b): lpr - send a job to the printer  
+lprm(1b): lprm - remove jobs from the printer queue  
+lptest(1b): lptest - generate lineprinter ripple pattern  
+ls(1b): ls - list the contents of a directory  
+mach(1b): mach - display the processor type of the current host  
+man(1b): man - display reference manual pages; find reference pages by keyword  
+mt(1b): mt - magnetic tape control  
+nroff(1b): nroff - format documents for display or line-printer  
+pagesize(1b): pagesize - display the size of a page of memory  
+plot(1b): plot, aedplot, atoplot, bgplot, crtplot, dumbplot, gigiplot, hpplot, implot, plottoa, t300, t300s, t4013, t450, tek - graphics filters for various plotters  
+printenv(1b): printenv - display environment variables currently set  
+prt(1b): prt - display the delta and commentary history of an SCCS file  
+ps(1b): ps - display the status of current processes  
+refer(1b): refer - expand and insert references from a bibliographic database  
+roffbib(1b): roffbib - format and print a bibliographic database  
+sccs(1b): sccs - front end for the Source Code Control System (SCCS)  
+soelim(1b): soelim - resolve and eliminate .so requests from nroff or troff input  
+sortbib(1b): sortbib - sort a bibliographic database  
+stty(1b): stty - set the options for a terminal  
+sum(1b): sum - calculate a checksum for a file  
+tbl(1b): tbl - format tables for nroff or troff  
+tcopy(1b): tcopy - copy a magnetic tape  
+test(1b): test - condition evaluation command  
+tr(1b): tr - translate characters  
+troff(1b): troff - typeset or format documents  
+tset(1b): tset, reset - establish or restore terminal characteristics  
+ul(1b): ul - underline  
+w(1b): w - who is logged in, and what are they doing  
+unifdef(1b): unifdef - resolve and remove ifdef'ed lines from C program source  
+uptime(1b): uptime - show how long the system has been up  
+users(1b): users - display a compact list of users logged in  
+vacation(1b): vacation - reply to mail automatically  
+whatis(1b): whatis - display a one-line summary about a keyword  
+which(1b): which - locate a command; display its pathname or alias  
+whoami(1b): whoami - display the effective current username  
+acctcom(1): acctcom - search and print process accounting file(s)  
+admin(1): admin - create and administer SCCS files  
+ar(1): ar - maintain portable archive or library  
+as(1): as - assembler  
+at(1): at, batch - execute commands at a later time  
+atq(1): atq - display the jobs queued to run at specified times  
+atrm(1): atrm - remove jobs spooled by at or batch  
+awk(1): awk - pattern scanning and processing language  
+banner(1): banner - make posters  
+basename(1): basename, dirname - deliver portions of path names  
+bc(1): bc - arbitrary-precision arithmetic language  
+bdiff(1): bdiff - big diff  
+bfs(1): bfs - big file scanner  
+cal(1): cal - print calendar  
+calendar(1): calendar - reminder service  
+cat(1): cat - concatenate and print files  
+cb(1): cb - C program beautifier  
+cd(1): cd - change working directory  
+cdc(1): cdc - change the delta comment of an SCCS delta  
+cflow(1): cflow - generate C flowgraph  
+chgrp(1): chgrp - change the group ownership of a file  
+chkey(1): chkey - change user encryption key  
+chmod(1): chmod - change file mode  
+ckdate(1): ckdate, errdate, helpdate, valdate - prompt for and validate a date  
+ckgid(1): ckgid, errgid, helpgid, valgid - prompt for and validate a group ID  
+ckint(1): ckint - display a prompt; verify and return an integer value  
+ckitem(1): ckitem - build a menu; prompt for and return a menu item  
+ckkeywd(1): ckkeywd - prompt for and validate a keyword  
+ckpath(1): ckpath - display a prompt; verify and return a pathname  
+ckrange(1): ckrange - prompt for and validate an integer  
+ckstr(1): ckstr - display a prompt; verify and return a string answer  
+cktime(1): cktime - display a prompt; verify and return a time of day  
+ckuid(1): ckuid - prompt for and validate a user ID  
+ckyorn(1): ckyorn - prompt for and validate yes/no  
+clear(1): clear - clear the terminal screen  
+cmp(1): cmp - compare two files  
+cof2elf(1): cof2elf - COFF to ELF object file translation  
+col(1): col - filter reverse line-feeds  
+comb(1): comb - combine SCCS deltas  
+comm(1): comm - select or reject lines common to two sorted files  
+cp(1): cp - copy files  
+crypt(1): crypt - encode/decode  
+cscope(1): cscope - interactively examine a C program  
+csh(1): csh - shell command interpreter with a C-like syntax  
+csplit(1): csplit - context split  
+ctags(1): ctags - create a tags file for use with vi  
+ctrace(1): ctrace - C program debugger  
+cut(1): cut - cut out selected fields of each line of a file  
+cxref(1): cxref - generate C program cross-reference  
+date(1): date - print and set the date  
+dc(1): dc - desk calculator  
+delta(1): delta - make a delta (change) to an SCCS file  
+diff(1): diff - differential file comparator  
+diff3(1): diff3 - 3-way differential file comparison  
+dircmp(1): dircmp - directory comparison  
+dis(1): dis - object code disassembler  
+dispgid(1): dispgid - displays a list of all valid group names  
+dispuid(1): dispuid - displays a list of all valid user names  
+download(1): download - host resident PostScript font downloader  
+dpost(1): dpost - troff postprocessor for PostScript printers  
+dump(1): dump - dump selected parts of an object file  
+echo(1): echo - echo arguments  
+ed(1): ed, red - text editor  
+edit(1): edit - text editor (variant of ex for casual users)  
+egrep(1): egrep - search a file for a pattern using full regular expressions  
+env(1): env - set environment for command execution  
+ex(1): ex - text editor  
+exstr(1): exstr - extract strings from source files  
+face(1): face - executable for the Framed Access Command Environment Interface  
+factor(1): factor - obtain the prime factors of a number  
+fgrep(1): fgrep - search a file for a character string  
+file(1): file - determine file type  
+find(1): find - find files  
+finger(1): finger - display information about local and remote users  
+fmli(1): fmli - invoke FMLI  
+fmt(1): fmt - simple text formatters  
+fmtmsg(1): fmtmsg - display a message on stderr or system console  
+fold(1): fold - fold long lines  
+ftp(1): ftp - file transfer program  
+gcore(1): gcore - get core images of running processes  
+get(1): get - get a version of an SCCS file  
+getopt(1): getopt - parse command options  
+getopts(1): getopts, getoptcvt - parse command options  
+gettxt(1): gettxt - retrieve a text string from a message data base  
+grep(1): grep - search a file for a pattern  
+groups(1): groups - print group membership of user  
+head(1): head - display first few lines of files  
+help(1): help - ask for help with message numbers or SCCS commands  
+iconv(1): iconv - code set conversion utility  
+intro_ccs(1): intro - introduction to programming commands  
+ipcrm(1): ipcrm - remove a message queue, semaphore set, or shared memory ID  
+ismpx(1): ismpx - return windowing terminal state  
+join(1): join - relational database operator  
+jterm(1): jterm - reset layer of windowing terminal  
+jwin(1): jwin - print size of layer  
+keylogin(1): keylogin - decrypt and store secret key  
+kill(1): kill - terminate a process by default  
+ksh(1): ksh, rksh - KornShell, a standard/restricted command and programming language  
+last(1): last - indicate last user or terminal logins  
+layers(1): layers - layer multiplexor for windowing terminals  
+ld(1): ld - link editor for object files  
+ldd(1): ldd - list dynamic dependencies  
+lex(1): lex - generate programs for simple lexical tasks  
+line(1): line - read one line  
+lint(1): lint - a C program checker  
+listusers(1): listusers - list user login information  
+logname(1): logname - get login name  
+lorder(1): lorder - find ordering relation for an object library  
+lp(1): lp, cancel - send/cancel requests to an LP print service  
+lprof(1): lprof - display line-by-line execution count profile data  
+lpstat(1): lpstat - print information about the status of the LP print service  
+m4(1): m4 - macro processor  
+mail(1): mail, rmail - read mail or send mail to users  
+mailalias(1): mailalias - translate mail alias names  
+mailx(1): mailx - interactive message processing system  
+make(1): make - maintain, update, and regenerate groups of programs  
+makekey(1): makekey - generate encryption key  
+mcs(1): mcs - manipulate the comment section of an object file  
+mesg(1): mesg - permit or deny messages  
+mkdir(1): mkdir - make directories  
+more(1): more, page - browse or page through a text file  
+mv(1): mv - move files  
+nawk(1): nawk - pattern scanning and processing language  
+newform(1): newform - change the format of a text file  
+news(1): news - print news items  
+nice(1): nice - run a command at low priority  
+nl(1): nl - line numbering filter  
+nm(1): nm - print name list of an object file  
+nohup(1): nohup - run a command immune to hangups and quits  
+notify(1): notify - notify user of the arrival of new mail  
+od(1): od - octal dump  
+pack(1): pack, pcat, unpack - compress and expand files  
+paste(1): paste - merge same lines of several files or subsequent lines of one file  
+pg(1): pg - file perusal filter for CRTs  
+pkginfo(1): pkginfo - display software package information  
+pkgmk(1): pkgmk - produce an installable package  
+pkgparam(1): pkgparam - displays package parameter values  
+pkgproto(1): pkgproto - generate a prototype file  
+pkgtrans(1): pkgtrans - translate package format  
+postdaisy(1): postdaisy - PostScript translator for Diablo 630 files  
+postdmd(1): postdmd - PostScript translator for DMD bitmap files  
+postio(1): postio - serial interface for PostScript printers  
+postmd(1): postmd - matrix display program for PostScript printers  
+postplot(1): postplot - PostScript translator for plot graphics files  
+postprint(1): postprint - PostScript translator for text files  
+posttek(1): posttek - PostScript translator for tektronix 4014 files  
+postreverse(1): postreverse - reverse the page order in a PostScript file  
+pr(1): pr - print files  
+printf(1): printf - print formatted output  
+priocntl(1): priocntl - process scheduler control  
+prof(1): prof - display profile data  
+prs(1): prs - print an SCCS file  
+pwd(1): pwd - working directory name  
+rcp(1): rcp - remote file copy  
+regcmp(1): regcmp - regular expression compile  
+rlogin(1): rlogin - remote login  
+rm(1): rm, rmdir - remove files or directories  
+rmdel(1): rmdel - remove a delta from an SCCS file  
+rpcgen(1): rpcgen - an RPC protocol compiler  
+rsh(1): rsh - remote shell  
+ruptime(1): ruptime - show host status of local machines  
+rusers(1): rusers - who's logged in on local machines  
+rwho(1): rwho - who's logged in on local machines  
+sact(1): sact - print current SCCS file editing activity  
+sccsdiff(1): sccsdiff - compare two versions of an SCCS file  
+script(1): script - make typescript of a terminal session  
+sdb(1): sdb - symbolic debugger  
+sdiff(1): sdiff - print file differences side-by-side  
+sed(1): sed - stream editor  
+shl(1): shl - shell layer manager  
+size(1): size - print section sizes in bytes of object files  
+sleep(1): sleep - suspend execution for an interval  
+spell(1): spell, hashmake, spellin, hashcheck, compress - find spelling errors  
+split(1): split - split a file into pieces  
+srchtxt(1): srchtxt - display contents of, or search for a text string in, message data bases  
+sum(1): sum - print checksum and block count of a file  
+strchg(1): strchg, strconf - change or query stream configuration  
+strings(1): strings - find printable strings in an object file or binary  
+strip(1): strip - strip symbol table, debugging and line number information from an object file.  
+tabs(1): tabs - set tabs on a terminal  
+tail(1): tail - deliver the last part of a file  
+talk(1): talk - talk to another user  
+tee(1): tee - pipe fitting  
+telnet(1): telnet - user interface to a remote system using the TELNET protocol  
+tftp(1): tftp - trivial file transfer program  
+time(1): time - time a command  
+timex(1): timex - time a command; report process data and system activity  
+touch(1): touch - update access and modification times of a file  
+tput(1): tput - initialize a terminal or query terminfo database  
+tr(1): tr - translate characters  
+truss(1): truss - trace system calls and signals  
+tsort(1): tsort - topological sort  
+tty(1): tty - get the name of the terminal  
+ttyconv(1): ttyconv - convert tty entries  
+umask(1): umask - set file-creation mode mask  
+uname(1): uname - print name of current UNIX system  
+unget(1): unget - undo a previous get of an SCCS file  
+uniq(1): uniq - report repeated lines in a file  
+units(1): units - conversion program  
+vacation(1): vacation - automatically respond to incoming mail messages  
+val(1): val - validate an SCCS file  
+vc(1): vc - version control  
+vi(1): vi - screen-oriented (visual) display editor based on ex  
+wait(1): wait - await completion of process  
+what(1): what - print identification strings  
+who(1): who - who is on the system  
+whois(1): whois - Internet user name directory service  
+xargs(1): xargs - construct argument list(s) and execute command  
+yacc(1): yacc - yet another compiler-compiler  
+ypcat(1): ypcat - print values in a NIS data base  
+ypmatch(1): ypmatch - print the value of one or more keys from the NIS map  
+ypwhich(1): ypwhich - return name of NIS server or map master  
+backup(1x): backup - perform backup functions  
+copy(1x): copy - copy groups of files  
+custom(1x): custom - install specific portions of certain UNIX or XENIX packages  
+fixperm(1x): fixperm - correct or initialize file permissions and ownership  
+cvtomflib(1x): cvtomflib - convert OMF (XENIX) libraries to ELF  
+hd(1x): hd - display files in hexadecimal format  
+ls(1x): ls, lc - list contents of directory  
+random(1x): random - generate a random number  
+restore(1x): restore - restore file to original directory  
+scompat(1x): scompat - set up compatibility environment for console applications  
+settime(1x): settime - change the access and modification dates of files  
+tset(1x): tset - provide information for setting terminal modes  
+yes(1x): yes - print string repeatedly  
+ct(1c): ct - spawn login to a remote terminal  
+cu(1c): cu - call another UNIX system  
+df(1m): df (generic), dfspace - report number of free disk blocks and files/free disk space  
+uucp(1c): uucp, uulog, uuname - UNIX-to-UNIX system copy  
+uuencode(1c): uuencode, uudecode - encode a binary file, or decode its ASCII representation  
+uuglist(1c): uuglist - list service grades available on this UNIX system  
+uuto(1c): uuto, uupick - public UNIX-to-UNIX system file copy  
+uux(1c): uux - UNIX-to-UNIX system command execution  
+coproc(1f): cocreate, cosend, cocheck, coreceive, codestroy - communicate with a process  
+echo(1f): echo - put string on virtual output  
+fmlcut(1f): fmlcut - cut out selected fields of each line of a file  
+fmlexpr(1f): fmlexpr - evaluate arguments as an expression  
+fmlgrep(1f): fmlgrep - search a file for a pattern  
+getfrm(1f): getfrm - returns the current frameID number  
+getitems(1f): getitems - return a list of currently marked menu items  
+message(1f): message - put arguments on FMLI message line  
+indicator(1f): indicator - display application specific alarms and/or the ``working'' indicator  
+pathconv(1f): pathconv - search FMLI criteria for filename  
+readfile(1f): readfile, longline - reads file, gets longest line  
+regex(1f): regex - match patterns against a string  
+reinit(1f): reinit - runs an initialization file  
+reset(1f): reset - reset the current form field to its default values  
+run(1f): run - run an executable  
+set(1f): set, unset - set and unset local or global environment variables  
+setcolor(1f): setcolor - redefine or create a color  
+shell(1f): shell - run a command using shell  
+test(1f): test - condition evaluation command  
+vsig(1f): vsig - synchronize a co-process with the controlling FMLI application  
+backup(1m): backup - initiate or control a system backup session  
+boot(1m): boot - UNIX system boot program  
+conflgs(1m): conflgs - change and display console flags  
+crash(1m): crash - examine system images  
+custom(1m): custom - install specific portions of a UNIX package  
+df_s5(1m): df (s5) - report number of free disk blocks and i-nodes for s5 file systems  
+devreserv(1m): devreserv - reserves devices for exclusive use  
+diskadd(1m): diskadd - disk set up utility  
+edvtoc(1m): 
+disksetup(1m): disksetup - disk set up utility  
+evgainit(1m): evgainit - Extended VGA keyboard/display driver initialization  
+fdisk(1m): fdisk - create or modify hard disk partition table  
+fixperm(1m): fixperm - correct or initialize XENIX file permissions and ownership  
+format(1m): format - format floppy disk tracks  
+fsba(1m): fsba - file system block analyzer  
+fsck(1m): fsck - check and repair file systems  
+fsdb_s5(1m): fsdb (s5) - s5 file system debugger  
+getty(1m): getty - set terminal type, modes, speed, and line discipline  
+groupmod(1m): groupmod - modify a group definition on the system  
+idbuild(1m): idbuild - build new UNIX System kernel  
+idcheck(1m): idcheck - returns selected information  
+idconfig(1m): idconfig - produce a new kernel configuration  
+idmkinit(1m): idmkinit - reads files containing specifications  
+idinstall(1m): idinstall - add, delete, update, or get device driver configuration data  
+idmknod(1m): idmknod - removes nodes and reads specifications of nodes  
+idmkunix(1m): idmkunix - build new UNIX System kernel  
+idspace(1m): idspace - investigates free space  
+idtune(1m): idtune - attempts to set value of a tunable parameter  
+ifconfig(1m): ifconfig - configure network interface parameters  
+kdb(1m): kdb - kernel debugger  
+labelit(1m): labelit (generic) - provide labels for file systems  
+mapchan(1m): mapchan - Configure tty device mapping.  
+labelit_s5(1m): labelit (s5) - provide labels for s5 file systems  
+labelit_ufs(1m): labelit (ufs) - provide labels for ufs file systems  
+ldsysdump(1m): ldsysdump - load system dump from floppy diskettes  
+mapkey(1m): mapkey, mapscrn, mapstr - configure monitor screen mapping  
+mkfs(1m): mkfs (generic) - construct a file system  
+mkfs_s5(1m): mkfs (s5) - construct an s5 file system  
+mkfs_ufs(1m): mkfs (ufs) - construct a ufs file system  
+mknod(1m): mknod - make a special file  
+mkpart(1m): mkpart - disk maintenance utility  
+mount(1m): mount, umount - mount or unmount file systems and remote resources  
+partsize(1m): partsize - returns the size of the active UNIX System partition  
+passmgmt(1m): passmgmt - password files management  
+prtvtoc(1m): 
+rc0(1m): rc0 - run commands performed to stop the operating system  
+rc2(1m): rc2 - run commands performed for multi-user environment  
+rc6(1m): rc6 - run commands performed to stop and reboot the operating system  
+restore(1m): restore - initiate restores of filesystems, data partitions, or disks  
+sadc(1m): sadc, sa1, sa2 - system activity report package  
+smtp(1m): smtp - send SMTP mail to a remote host using Simple Mail Transfer Protocol  
+swap(1m): swap - swap administrative interface  
+sysadm(1m): sysadm - visual interface to perform system administration  
+ufsdump(1m): ufsdump - incremental file system dump  
+useradd(1m): useradd - administer a new user login on the system  
+ufsrestore(1m): ufsrestore - incremental file system restore  
+userdel(1m): userdel - delete a user's login from the system  
+usermod(1m): usermod - modify a user's login information on the system  
+vidi(1m): vidi - sets the font and video mode for a video device  
+vtgetty(1m): vtgetty - sets terminal type, modes, speed, and line discipline.  
+volcopy_s5(1m): volcopy (s5) - make a literal copy of an s5 file system  
+volcopy_ufs(1m): volcopy (ufs) - make a literal copy of a ufs file system  
+wall(1m): wall - write to all users  
+whodo(1m): whodo - who is doing what  
+xfsck(1m): xfsck - check and repair XENIX filesystems  
+xinstall(1m): xinstall - XENIX installation shell script  
+xrestore(1m): xrestore, xrestor - invoke XENIX incremental filesystem restorer  
+catman(1b): catman - create the cat files for the manual  
+du(1b): du - display the number of disk blocks used per directory or file  
+fastboot(1b): fastboot, fasthalt - reboot/halt the system without checking the disks  
+grpck(1b): grpck - check group database entries  
+halt(1b): halt - stop the processor  
+lpc(1b): lpc - line printer control program  
+mconnect(1b): mconnect - connect to SMTP mail server socket  
+mailstats(1b): mailstats - print statistics collected by sendmail  
+pwck(1b): pwck - check password database entries  
+newaliases(1b): newaliases - rebuild the data base for the mail aliases file  
+reboot(1b): reboot - restart the operating system  
+renice(1b): renice - alter priority of running processes  
+sendmail(1b): sendmail - send mail over the internet  
+shutdown(1b): shutdown - close down the system at a given time  
+syslogd(1b): syslogd - log system messages  
+Uutry(1m): Uutry - try to contact remote system with debugging on  
+accept(1m): accept, reject - accept or reject print requests  
+acct(1m): acctdisk, acctdusg, accton, acctwtmp closewtmp, utmp2wtmp - overview of accounting and miscellaneous accounting commands  
+acctcms(1m): acctcms - command summary from per-process accounting records  
+acctcon(1m): acctcon, acctcon1, acctcon2 - connect-time accounting  
+acctmerg(1m): acctmerg - merge or add total accounting files  
+acctprc(1m): acctprc, acctprc1, acctprc2 - process accounting  
+acctsh(1m): chargefee, ckpacct, dodisk, lastlogin, monacct, nulladm, prctmp, prdaily, prtacct, runacct, shutacct, startup, turnacct - shell procedures for accounting  
+arp(1m): arp - address resolution display and control  
+autopush(1m): autopush - configure lists of automatically pushed STREAMS modules  
+automount(1m): automount - automatically mount NFS file systems  
+biod(1m): biod - NFS daemon  
+bkexcept(1m): bkexcept - change or display an exception list for incremental backups  
+bkoper(1m): bkoper - interact with backup operations to service media insertion prompts  
+bkhistory(1m): bkhistory - report on completed backup operations  
+bkreg(1m): bkreg - change or display the contents of a backup register  
+bkstatus(1m): bkstatus - display the status of backup operations  
+brc(1m): brc, bcheckrc - system initialization procedures  
+bootparamd(1m): bootparamd - boot parameter server  
+chroot(1m): chroot - change root directory for a command  
+captoinfo(1m): captoinfo - convert a termcap description into a terminfo description  
+checkfsys(1m): checkfsys - check a file system  
+chrtbl(1m): chrtbl - generate character classification and conversion tables  
+ckbupscd(1m): ckbupscd - check file system backup schedule  
+ckbinarsys(1m): ckbinarsys - determine whether remote system can accept binary messages  
+colltbl(1m): colltbl - create collation database  
+comsat(1m): comsat, in.comsat - biff server  
+cron(1m): cron - clock daemon  
+dcopy(1m): dcopy (generic) - copy file systems for optimal access time  
+dcopy_s5(1m): dcopy (s5) - copy s5 file systems for optimal access time  
+dd(1m): dd - convert and copy a file  
+devattr(1m): devattr - lists device attributes  
+delsysadm(1m): delsysadm - sysadm interface menu or task removal tool  
+devfree(1m): devfree - release devices from exclusive use  
+devnm(1m): devnm - device name  
+df_ufs(1m): df (ufs) - report free disk space on ufs file systems  
+dfmounts(1m): dfmounts - display mounted resource information  
+dfshares(1m): dfshares - list available resources from remote or local systems  
+dfmounts_nfs(1m): dfmounts - display mounted NFS resource information  
+dfmounts_rfs(1m): dfmounts - display mounted RFS resource information  
+diskusg(1m): diskusg - generate disk accounting data by user ID  
+dfshares_nfs(1m): dfshares - list available NFS resources from remote systems  
+dfshares_rfs(1m): dfshares - list available RFS resources from remote systems  
+dname(1m): dname - print Remote File Sharing domain and network names  
+dispadmin(1m): dispadmin - process scheduler administration  
+du(1m): du - summarize disk usage  
+domainname(1m): domainname - get/set name of current secure RPC domain  
+edquota(1m): edquota - edit user quotas  
+edsysadm(1m): edsysadm - sysadm interface editing tool  
+enable(1m): enable, disable - enable/disable LP printers  
+fdetach(1m): fdetach - detach a name from a STREAMS-based file descriptor  
+fdp(1m): fdp - create, or restore from, a full file system archive  
+ff(1m): ff (generic) - list file names and statistics for a file system  
+ff_s5(1m): ff (s5) - display i-list information  
+ff_ufs(1m): ff (ufs) - list file names and statistics for a ufs file system  
+ffile(1m): ffile - create, or restore from, a full file system archive  
+fimage(1m): fimage - create, restore an image archive of a filesystem  
+fingerd(1m): fingerd, in.fingerd - remote user information server  
+fromsmtp(1m): fromsmtp - receive RFC822 mail from SMTP  
+fsck_bfs(1m): fsck (bfs) - check and repair bfs file systems  
+fsck_s5(1m): fsck (s5) - check and repair s5 file systems  
+fsck_ufs(1m): fsck (ufs) - file system consistency check and interactive repair  
+fsdb(1m): fsdb (generic) - file system debugger  
+fsdb_ufs(1m): fsdb (ufs) - ufs file system debugger  
+fstyp(1m): fstyp (generic) - determine file system type  
+ftpd(1m): ftpd - file transfer protocol server  
+fumount(1m): fumount - forced unmount of advertised resources  
+fusage(1m): fusage - disk access profiler  
+fuser(1m): fuser - identify processes using a file or file structure  
+fwtmp(1m): fwtmp, wtmpfix - manipulate connect accounting records  
+gencc(1m): gencc - create a front-end to the cc command  
+getdev(1m): getdev - lists devices based on criteria  
+getdgrp(1m): getdgrp - lists device groups which contain devices that match criteria  
+gettable(1m): gettable - get DoD Internet format host table from a host  
+getvol(1m): getvol - verifies device accessibility  
+htable(1m): htable - convert DoD Internet format host table  
+groupadd(1m): groupadd - add (create) a new group definition on the system  
+groupdel(1m): groupdel - delete a group definition from the system  
+id(1m): id - print the user name and ID, and group name and ID  
+idload(1m): idload - Remote File Sharing user and group mapping  
+incfile(1m): incfile - create, restore an incremental filesystem archive  
+inetd(1m): inetd - Internet services daemon  
+infocmp(1m): infocmp - compare or print out terminfo descriptions  
+init(1m): init, telinit - process control initialization  
+install(1m): install - install commands  
+installf(1m): installf - add a file to the software installation database  
+intro(1m): intro - introduction to maintenance commands and application programs  
+keyserv(1m): keyserv - server for storing public and private keys  
+killall(1m): killall - kill all active processes  
+link(1m): link, unlink - link and unlink files and directories  
+listdgrp(1m): listdgrp - lists members of a device group  
+listen(1m): listen - network listener daemon  
+lockd(1m): lockd - network lock daemon  
+logins(1m): logins - list user and system login information  
+lpadmin(1m): lpadmin - configure the LP print service  
+lpfilter(1m): lpfilter - administer filters used with the LP print service  
+lpforms(1m): lpforms - administer forms used with the LP print service  
+lpsched(1m): lpsched, lpshut, lpmove - start/stop the LP print service and move requests  
+lpsystem(1m): lpsystem - register remote systems with the print service  
+lpusers(1m): lpusers - set printing queue priorities  
+makedbm(1m): makedbm - make a Network Information Service (NIS) dbm file  
+mail_pipe(1m): mail_pipe - invoke recipient command for incoming mail  
+makefsys(1m): makefsys - create a file system  
+mkfifo(1m): mkfifo - make FIFO special file  
+migration(1m): migration - move an archive from one set of volumes to another  
+mkfs_bfs(1m): mkfs (bfs) - construct a boot file system  
+montbl(1m): montbl - create monetary database  
+mount_s5(1m): mount (s5) - mount an s5 file system  
+mount_bfs(1m): mount (bfs) - mount bfs file systems  
+mount_nfs(1m): mount - mount remote NFS resources  
+mount_rfs(1m): mount - mount remote resources  
+mountall(1m): mountall, umountall - mount, unmount multiple file systems  
+mount_ufs(1m): mount (ufs) - mount ufs file systems  
+mountd(1m): mountd - NFS mount request server  
+mvdir(1m): mvdir - move a directory  
+mountfsys(1m): mountfsys, umountfsys - mount, unmount a file system  
+named(1m): named, in.named - Internet domain name server  
+ncheck(1m): ncheck (generic) - generate a list of path names vs i-numbers  
+netstat(1m): netstat - show network status  
+ncheck_s5(1m): ncheck (s5) - generate path names versus i-numbers for s5 file systems  
+ncheck_ufs(1m): ncheck (ufs) - generate pathnames versus i-numbers for ufs file systems  
+newgrp(1m): newgrp - log in to a new group  
+newkey(1m): newkey - create a new key in the publickey database  
+nfsd(1m): nfsd - NFS daemon  
+nfsstat(1m): nfsstat - Network File System statistics  
+nlsadmin(1m): nlsadmin - network listener service administration  
+nslookup(1m): nslookup - query name servers interactively  
+nsquery(1m): nsquery - Remote File Sharing name server query  
+ping(1m): ping - send ICMP ECHO_REQUEST packets to network hosts  
+pkgadd(1m): pkgadd - transfer software package to the system  
+pkgask(1m): pkgask - stores answers to a request script  
+pkgchk(1m): pkgchk - check accuracy of installation  
+pkgrm(1m): pkgrm - removes a package from the system  
+pmadm(1m): pmadm - port monitor administration  
+profiler(1m): prfld, prfstat, prfdc, prfsnap, prfpr - UNIX system profiler  
+putdev(1m): putdev - edits device table  
+putdgrp(1m): putdgrp - edits device group table  
+pwck(1m): pwck, grpck - password/group file checkers  
+pwconv(1m): pwconv - install and update /etc/shadow with information from /etc/passwd  
+quot(1m): quot - summarize file system ownership  
+quota(1m): quota - display a user's disk quota and usage  
+quotaon(1m): quotaon, quotaoff - turn file system quotas on and off  
+quotacheck(1m): quotacheck - file system quota consistency checker  
+rarpd(1m): rarpd - DARPA Reverse Address Resolution Protocol server  
+rdate(1m): rdate - set system date from a remote host  
+relogin(1m): relogin - rename login entry to show current layer  
+removef(1m): removef - remove a file from software database  
+repquota(1m): repquota - summarize quotas for a file system  
+rexecd(1m): rexecd - remote execution server  
+rfadmin(1m): rfadmin - Remote File Sharing domain administration  
+rfpasswd(1m): rfpasswd - change Remote File Sharing host password  
+rfstart(1m): rfstart - start Remote File Sharing  
+rfstop(1m): rfstop - stop the Remote File Sharing environment  
+rfuadmin(1m): rfuadmin - Remote File Sharing notification shell script  
+rlogind(1m): rlogind - remote login server  
+rfudaemon(1m): rfudaemon - Remote File Sharing daemon process  
+rmntstat(1m): rmntstat - display mounted resource information  
+rmnttry(1m): rmnttry - attempt to mount queued remote resources  
+rmount(1m): rmount - queue remote resource mounts  
+route(1m): route - manually manipulate the routing tables  
+rmountall(1m): rmountall, rumountall - mount, unmount Remote File Sharing resources  
+routed(1m): routed - network routing daemon  
+rpcbind(1m): rpcbind - universal addresses to RPC program number mapper  
+rpcinfo(1m): rpcinfo - report RPC information  
+rshd(1m): rshd - remote shell server  
+rsoper(1m): rsoper - service pending restore requests and service media insertion prompts  
+rumount(1m): rumount - cancel queued remote resource request  
+runacct(1m): runacct - run daily accounting  
+rusersd(1m): rpc.rusersd - network username server  
+rwall(1m): rwall - write to all users over a network  
+rwalld(1m): rpc.rwalld - network rwall server  
+rwhod(1m): rwhod, in.rwhod - system status server  
+sac(1m): sac - service access controller  
+sacadm(1m): sacadm - service access controller administration  
+sag(1m): sag - system activity graph  
+sar(1m): sar - system activity reporter  
+setclk(1m): setclk - set system time from hardware clock  
+setmnt(1m): setmnt - establish mount table  
+setuname(1m): setuname - changes machine information  
+setup(1m): setup - initialize system for first user  
+share(1m): share - make local resource available for mounting by remote systems  
+shareall(1m): shareall, unshareall - share, unshare multiple resources  
+share_nfs(1m): share - make local NFS resource available for mounting by remote systems  
+share_rfs(1m): share - make local RFS resource available for mounting by remote systems  
+shutdown(1m): shutdown - shut down system, change system state  
+slink(1m): slink - streams linker  
+smtpd(1m): smtpd - receive incoming SMTP messages  
+smtpqer(1m): smtpqer - queue mail for delivery by SMTP  
+spray(1m): spray - spray packets  
+smtpsched(1m): smtpsched - process messages queued in the SMTP mail queue  
+ci(1): ci - check in RCS revisions  
+sprayd(1m): rpc.sprayd - spray server  
+statd(1m): statd - network status monitor  
+strace(1m): strace - print STREAMS trace messages  
+strclean(1m): strclean - STREAMS error logger cleanup program  
+strerr(1m): strerr - STREAMS error logger daemon  
+sttydefs(1m): sttydefs - maintain line settings and hunt sequences for TTY ports  
+su(1m): su - become super-user or another user  
+sulogin(1m): sulogin - access single-user mode  
+sync(1m): sync - update the super block  
+talkd(1m): talkd, in.talkd - server for talk program  
+telnetd(1m): telnetd - DARPA TELNET protocol server  
+tftpd(1m): tftpd - DARPA Trivial File Transfer Protocol server  
+tic(1m): tic - terminfo compiler  
+tnamed(1m): tnamed, in.tnamed - DARPA trivial name server  
+tosmtp(1m): tosmtp - send mail to SMTP  
+trpt(1m): trpt - transliterate protocol trace  
+ttyadm(1m): ttyadm - format and output port monitor-specific information  
+ttymon(1m): ttymon - port monitor for terminal ports  
+tunefs(1m): tunefs - tune up an existing file system  
+uadmin(1m): uadmin - administrative control  
+unshare(1m): unshare - make local resource unavailable for mounting by remote systems  
+unshare_nfs(1m): unshare - make local NFS resource unavailable for mounting by remote systems  
+urestore(1m): urestore - request restore of files and directories  
+uucheck(1m): uucheck - check the uucp directories and permissions file  
+uucico(1m): uucico - file transport program for the uucp system  
+uucleanup(1m): uucleanup - uucp spool directory clean-up  
+uugetty(1m): uugetty - set terminal type, modes, speed, and line discipline  
+uusched(1m): uusched - the scheduler for the uucp file transport program  
+uuxqt(1m): uuxqt - execute remote command requests  
+volcopy(1m): volcopy (generic) - make literal copy of file system  
+wtinit(1m): wtinit - object downloader for the 5620 DMD terminal  
+xts(1m): xts - extract and print xt driver statistics  
+xtt(1m): xtt - extract and print xt driver packet traces  
+ypinit(1m): ypinit - build and install YP database  
+ypmake(1m): ypmake - rebuild YP database  
+yppoll(1m): yppoll - return current version of the map at the NIS server host  
+yppush(1m): yppush - force propagation of a changed NIS map  
+ypserv(1m): ypserv, ypbind - NIS server and binder processes  
+ypset(1m): ypset - point ypbind at a particular server  
+ypupdated(1m): ypupdated - server for changing NIS information  
+ypxfr(1m): ypxfr - transfer YP map from a YP server to host  
+zdump(1m): zdump - time zone dumper  
+zic(1m): zic - time zone compiler  
+fixshlib(1x): fixshlib - alters executables to call SCO UNIX System V/386 Release 3.2- compatible libnsl  
+maplocale(1x): maplocale - convert Release 4 locale information to different format  
+mknod(1x): mknod - make a special file  
+bibtex(1): bibtex - make a bibliography for TeX  
+xinstall(1x): xinstall - install commands  
+detex(1): detex - a filter to strip TeX and LaTeX's commands from a file.  
+dvitps(1): dvitps - convert a DVI file of TeX into a POSTSCRIPT file  
+dvitype(1): dvitype - translate a dvi file for humans  
+fig2dev(1): fig2dev - translates Fig code to various graphics languages   
+gftodvi(1): gftodvi - make proofsheets from generic font files  
+gftopk(1): gftopk - convert generic font files to packed font files  
+gftype(1): gftype - translate a generic font file for humans to read  
+latex(1): latex - intensional text formatting and typesetting  
+makeindex(1): makeindex - a general purpose, formatter-independent index processor  
+mf(1): mf, inimf - Metafont, a language for alphabet design  
+mft(1): mft - translate Metafont code to TeX code for prettyprinting  
+pfd2tfm(1): pfd2tfm - convert a PFD and AFM file into a TFM file for TeX and a PDR file for dvitps.  
+pktogf(1): pktogf - convert packed font files to generic font files  
+pktype(1): pktype - translate a packed font file for humans to read  
+pltotf(1): pltotf - convert property list files to font metric (tfm) format  
+printpdr(1): printpdr - print the encoding vector of a PDR file  
+slitex(1): slitex - make LaTeX slides  
+tangle(1): tangle, weave - translate WEB to Pascal and/or TeX  
+tex(1): tex, initex, virtex - text formatting and typesetting  
+texeqn(1): texeqn - extracts displayed equations in TeX and LaTeX documents.  
+texexpand(1): texexpand - expands TeX's \input and LaTeX's \input{} and \include{}.  
+texmatch(1): texmatch - checks matching in TeX and LaTeX documents.  
+texspell(1): texspell - finds spelling errors in TeX documents. texproofr - runs proofr on TeX's documents.  
+tftopl(1): tftopl - convert font metric (tfm) files to property list format  
+transfig(1): transfig - creates a makefile for portable LaTeX figures  
+vftovp(1): vftovp - convert virtual font (vf) files to virtual property list format  
+vptovf(1): vptovf - convert virtual property list files to virtual fonts  
+weave(1): tangle, weave - translate WEB to Pascal and/or TeX  
+xdvi(1): xdvi - DVI Previewer for the X Window System  
+afio(1): afio - manipulate archives and files  
+bison(1): bison - GNU Project parser generator (yacc replacement)  
+bencode(1): bencode, bdecode - encode a binary file into printable ASCII; decode it back into binary.  
+subst(1): subst - substitute definitions into file(s)  
+dbz(1): dbz - operate on dbz databases of text  
+inews(1): inews - `user-friendly' news-posting front-end for relaynews  
+postnews(1): postnews - simple interactive news-posting interface  
+checknews(1): checknews - check for unread news  
+ctime(1): ctime, getdate - date conversions to and from numeric form  
+readnews(1): readnews - read news articles  
+answer(1): answer - phone message transcription system  
+autoreply(1): autoreply - Automatic mail reply system  
+chkalias(1): checkalias - check to see if an alias is defined.  
+elm(1): elm - an interactive mail system  
+fastmail(1): fastmail - quick batch mail interface to a single address  
+filter(1): filter - filter incoming messages before adding to mailbox  
+frm(1): frm - list from and subject of all messages in mailbox or file  
+listalias(1): listalias - list user and system aliases  
+messages(1): messages - quick count of messages in mailbox or folder  
+newalias(1): newalias - install new elm aliases for user and/or system  
+newmail(1): newmail,wnewmail - programs to asynchronously notify of new mail  
+printmail(1): printmail - format mail in a readable fashion for printing  
+readmsg(1): readmsg - read messages from incoming mail  
+wnewmail(1): wnewmail - daemon to asynchronously notify of new mail  
+emacs(1): emacs - GNU project Emacs  
+emacstool(1): emacstool - run emacs under Sun windows with function-key and mouse support.  
+f2c(1): f2c - Convert Fortran 77 to C or C++  
+fm(1): fm - curses-based hex file modifier/editor   
+gcc-1(1): gcc - GNU project C Compiler  
+gcc-2(1): gcc, g++ - GNU project C and C++ Compiler (v2 preliminary)  
+gdb(1): gdb - The GNU Debugger  
+kermit(1): kermit - file transfer, management, and terminal connection  
+less(1): less - opposite of more  
+nn(1): nn - efficient net news interface (No News is good news)  
+nncheck(1): nncheck - check for unread articles  
+nngoback(1): nngoback - make news articles unread on a day-by-day basis (nn)  
+nngrab(1): nngrab - news retrieval by keyword (nn)  
+nngrep(1): nngrep - grep for news group names (nn)  
+nnpost(1): nnpost - post news articles (nn)  
+nntidy(1): nntidy - tidy your personal .newsrc file  
+getactive(1): getactive - retrieve the active file from the remote news server  
+nntpxmit(1): nntpxmit - transmit netnews articles to a remote NNTP server  
+patch(1): patch - a program for applying a diff file to an original  
+perl(1): perl - Practical Extraction and Report Language  
+co(1): co - check out RCS revisions  
+ident(1): ident - identify files  
+merge(1): merge - three-way file merge  
+rcs(1): rcs - change RCS file attributes  
+rcsclean(1): rcsclean - clean up working files  
+rcsdiff(1): rcsdiff - compare RCS revisions  
+rcsfreeze(1): rcsfreeze - freeze a configuration of sources checked in under RCS  
+rcsintro(1): rcsintro - introduction to RCS commands  
+rcsmerge(1): rcsmerge - merge RCS revisions  
+rlog(1): rlog - print log messages and other information about RCS files  
+rn(1): rn | new read news program  
+Pnews(1): Pnews a program for posting news articles  
+Rnmail(1): Rnmail a program for replying via mail  
+newsetup(1): newsetup a program to set up a .newsrc file  
+newsgroups(1): newsgroups a program to list unsubscribed newsgroups.  
+sc(1): sc - spread sheet calculator  
+shar(1): shar - create shell archives  
+unshar(1): unshar - unpack a shar file  
+tcsh(1): tcsh - C shell with file name completion and command line editing  
+top(1): top - display and update information about the top cpu processes  
+address(1): address - display the path generated by uumail for an RFC822/RFC976- format address.  
+crc(1): crc - checksum files  
+minirb(1): minirb - Bootstrap YMODEM Batch file receive  
+rz(1): rx, rb, rz - XMODEM, YMODEM, ZMODEM (Batch) file receive  
+sz(1): sx, sb, sz - XMODEM, YMODEM, ZMODEM file send  
+aprint(1): aprint - Annex remote print command  
+mknod(2): mknod - make a directory, or a special or ordinary file  
+acct(2): acct - enable or disable process accounting  
+sysi86(2): sysi86 - machine specific functions  
+uadmin(2): uadmin - administrative control  
+access(2): access - determine accessibility of a file  
+alarm(2): alarm - set a process alarm clock  
+adjtime(2): adjtime - correct the time to allow synchronization of the system clock  
+brk(2): brk, sbrk - change data segment space allocation  
+chdir(2): chdir, fchdir - change working directory  
+chmod(2): chmod, fchmod - change mode of file  
+chown(2): chown, lchown, fchown - change owner and group of a file  
+close(2): close - close a file descriptor  
+chroot(2): chroot - change root directory  
+creat(2): creat - create a new file or rewrite an existing one  
+dup(2): dup - duplicate an open file descriptor  
+exec(2): execl, execv, execle, execve, execlp, execvp - execute a file  
+exit(2): exit, _exit - terminate process  
+fcntl(2): fcntl - file control  
+flock(2): flock - apply or remove an advisory lock on an open file  
+fork(2): fork - create a new process  
+fsync(2): fsync - synchronize a file's in-memory state with that on the physical medium  
+fpathconf(2): fpathconf, pathconf - get configurable pathname variables  
+getcontext(2): getcontext, setcontext - get and set current user context  
+getdents(2): getdents - read directory entries and put in a file system independent format  
+getgroups(2): getgroups, setgroups - get or set supplementary group access list IDs  
+getmsg(2): getmsg - get next message off a stream  
+getpid(2): getpid, getpgrp, getppid, getpgid - get process, process group, and parent process IDs  
+getrlimit(2): getrlimit, setrlimit - control maximum system resource consumption  
+getsid(2): getsid - get session ID  
+getuid(2): getuid, geteuid, getgid, getegid - get real user, effective user, real group, and effective group IDs  
+intro(2): intro - introduction to system calls and error numbers  
+ioctl(2): ioctl - control device  
+kill(2): kill - send a signal to a process or a group of processes  
+link(2): link - link to a file  
+lseek(2): lseek - move read/write file pointer  
+memcntl(2): memcntl - memory management control  
+mincore(2): mincore - determine residency of memory pages  
+mkdir(2): mkdir - make a directory  
+mmap(2): mmap - map pages of memory  
+mount(2): mount - mount a file system  
+mprotect(2): mprotect - set protection of memory mapping  
+msgctl(2): msgctl - message control operations  
+msgget(2): msgget - get message queue  
+msgop(2): msgsnd, msgrcv - message operations  
+munmap(2): munmap - unmap pages of memory  
+nice(2): nice - change priority of a time-sharing process  
+open(2): open - open for reading or writing  
+pause(2): pause - suspend process until signal  
+pipe(2): pipe - create an interprocess channel  
+plock(2): plock - lock into memory or unlock process, text, or data  
+poll(2): poll - input/output multiplexing  
+priocntl(2): priocntl - process scheduler control  
+priocntlset(2): priocntlset - generalized process scheduler control  
+profil(2): profil - execution time profile  
+ptrace(2): ptrace - process trace  
+putmsg(2): putmsg - send a message on a stream  
+read(2): read - read from file  
+readlink(2): readlink - read the value of a symbolic link  
+rename(2): rename - change the name of a file  
+rmdir(2): rmdir - remove a directory  
+semctl(2): semctl - semaphore control operations  
+semget(2): semget - get set of semaphores  
+semop(2): semop - semaphore operations  
+setpgid(2): setpgid - set process group ID  
+setpgrp(2): setpgrp - set process group ID  
+setsid(2): setsid - set session ID  
+setuid(2): setuid, setgid - set user and group IDs  
+shmctl(2): shmctl - shared memory control operations  
+shmget(2): shmget - get shared memory segment identifier  
+shmop(2): shmat, shmdt - shared memory operations  
+sigaction(2): sigaction - detailed signal management  
+sigaltstack(2): sigaltstack - set or get signal alternate stack context  
+signal(2): signal, sigset, sighold, sigrelse, sigignore, sigpause - simplified signal management  
+sigpending(2): sigpending - examine signals that are blocked and pending  
+sigprocmask(2): sigprocmask - change or examine signal mask  
+sigsend(2): sigsend, sigsendset - send a signal to a process or a group of processes  
+sigsuspend(2): sigsuspend - install a signal mask and suspend process until signal  
+stat(2): stat, lstat, fstat - get file status  
+statvfs(2): statvfs, fstatvfs - get file system information  
+stime(2): stime - set time  
+swapctl(2): swapctl - manage swap space  
+symlink(2): symlink - make a symbolic link to a file  
+sync(2): sync - update super block  
+sysfs(2): sysfs - get file system type information  
+sysinfo(2): sysinfo - get and set system information strings  
+termios(2): tcgetattr, tcsetattr, tcsendbreak, tcdrain, tcflush, tcflow, cfgetospeed, cfgetispeed, cfsetispeed, cfsetospeed, tcgetpgrp, tcsetpgrp, tcgetsid - general terminal interface  
+time(2): time - get time  
+times(2): times - get process and child process times  
+ulimit(2): ulimit - get and set user limits  
+umask(2): umask - set and get file creation mask  
+umount(2): umount - unmount a file system  
+uname(2): uname - get name of current UNIX system  
+unlink(2): unlink - remove directory entry  
+ustat(2): ustat - get file system statistics  
+utime(2): utime - set file access and modification times  
+vfork(2): vfork - spawn new process in a virtual memory efficient way  
+wait(2): wait - wait for child process to stop or terminate  
+waitid(2): waitid - wait for child process to change state  
+waitpid(2): waitpid - wait for child process to change state  
+write(2): write, writev - write on a file  
+chsize(2x): chsize - change the size of a file  
+creatsem(2x): creatsem - create an instance of a binary semaphore  
+ftime(2x): ftime - get time and date  
+intro(2x): intro  
+lock(2x): lock - lock a process in primary memory  
+locking(2x): locking - lock or unlock a file region for reading or writing  
+mknod(2x): mknod - make a directory, or a special or ordinary file  
+nap(2x): nap - suspend execution for a short interval  
+opensem(2x): opensem - open a semaphore  
+rdchk(2x): rdchk - check to see if there is data to be read  
+sdenter(2x): sdenter, sdleave - synchronize access to a shared data segment  
+sdget(2x): sdget, sdfree - attach and detach a shared data segment  
+sdgetv(2x): sdgetv - synchronize shared data access  
+sigsem(2x): sigsem - signal a process waiting on a semaphore  
+stat(2x): stat, lstat, fstat - get file status  
+waitsem(2x): waitsem, nbwaitsem - await and check access to a resource governed by a semaphore  
+alloca(3b): alloca - memory allocator  
+string(3b): bcopy, bcmp, bzero, ffs - bit and byte string operations  
+dbm(3b): dbminit, dbmclose, fetch, store, delete, firstkey, nextkey - data base subroutines  
+econvert(3b): econvert, fconvert, gconvert, seconvert, sfconvert, sgconvert - output conversion  
+gettimeofday(3b): gettimeofday, settimeofday - get or set the date and time  
+decimal_to_floating(3b): decimal_to_floating: decimal_to_single, decimal_to_double, decimal_to_extended - convert decimal record to floating-point value  
+directory(3b): opendir, readdir, telldir, seekdir, rewinddir, closedir - directory operations  
+fopen(3b): fopen, freopen, fdopen - open a stream  
+floatingpoint(3b): floatingpoint - IEEE floating point definitions  
+ftime(3b): ftime - get date and time  
+floating_to_decimal(3b): floating_to_decimal: single_to_decimal, double_to_decimal, extended_to_decimal - convert floating-point value to decimal record  
+string(3b): strcasecmp, strncasecmp - string operations  
+getusrshl(3b): getusershell, setusershell, endusershell - get legal user shells  
+getdtablesize(3b): getdtablesize - get descriptor table size  
+gethostid(3b): gethostid - get unique identifier of current host  
+gethostname(3b): gethostname, sethostname - get/set name of current host  
+getpagesize(3b): getpagesize - get system page size  
+getpriority(3b): getpriority, setpriority - get/set program scheduling priority  
+getrusage(3b): getrusage - get information about resource utilization  
+getwd(3b): getwd - get current working directory pathname  
+ieee_handler(3b): ieee_handler - IEEE exception trap handler function  
+ieee_functionss(3b): ieee_functions, fp_class, isnan, copysign, scalbn - miscellaneous functions for IEEE arithmetic  
+index(3b): index, rindex - string operations  
+killpg(3b): killpg - send signal to a process group  
+mctl(3b): mctl - memory management control  
+mkstemp(3b): mkstemp - make a unique file name  
+mp(3b): madd, msub, mult, mdiv, mcmp, min, mout, pow, gcd, rpow, msqrt, sdiv, itom, xtom, mtox, mfree - multiple precision integer arithmetic  
+ndbm(3b): dbm_clearerr, dbm_close, dbm_delete, dbm_error, dbm_fetch, dbm_firstkey, dbm_nextkey, dbm_open, dbm_store - data base subroutines  
+nice(3b): nice - change priority of a process  
+nlist(3b): nlist - get entries from symbol table  
+printf(3b): printf, fprintf, sprintf, vprintf, vfprintf, vsprintf - formatted output conversion  
+psignal(3b): psignal, sys_siglist - system signal messages  
+rand(3b): rand, srand - simple random number generator  
+random(3b): random, srandom, initstate, setstate - better random number generator; routines for changing generators  
+reboot(3b): reboot - reboot system or halt processor  
+regex(3b): regex, re_comp, re_exec - regular expression handler  
+scandir(3b): scandir, alphasort - scan a directory  
+setbuf(3b): setbuf, setbuffer, setlinebuf, setvbuf - assign buffering to a stream  
+setbuffer(3b): setbuffer, setlinebuf - assign buffering to a stream  
+setjmp(3b): setjmp, longjmp, _setjmp, _longjmp, sigsetjmp, siglongjmp - non-local goto  
+setregid(3b): setregid - set real and effective group IDs  
+setreuid(3b): setreuid - set real and effective user IDs  
+sigblock(3b): sigblock, sigmask - block signals  
+sigfpe(3b): sigfpe - signal handling for specific SIGFPE codes  
+siginterrupt(3b): siginterrupt - allow signals to interrupt system calls  
+signal(3b): signal - simplified software signal facilities  
+sigpause(3b): sigpause - automically release blocked signals and wait for interrupt  
+sigsetmask(3b): sigsetmask - set current signal mask  
+sigstack(3b): sigstack - set and/or get signal stack context  
+sigvec(3b): sigvec - software signal facilities  
+sleep(3b): sleep - suspend execution for interval  
+syscall(3b): syscall - indirect system call  
+syslog(3b): syslog, openlog, closelog, setlogmask - control system log  
+times(3b): times - get process times  
+timezone(3b): timezone - get time zone name given offset from GMT  
+ualarm(3b): ualarm - schedule signal after interval in microseconds  
+usleep(3b): usleep - suspend execution for interval in microseconds  
+utimes(3b): utimes - set file times  
+wait(3b): wait, wait3, WIFSTOPPED, WIFSIGNALED, WIFEXITED - wait for process to terminate or stop  
+dbm(3): dbm, dbminit, dbmclose, fetch, store, delete, firstkey, nextkey - database subroutines  
+intro(3): intro - introduction to functions and libraries  
+ecvt(3c): ecvt, ecvtl, fcvt, fcvtl, gcvt, gcvtl - convert floating-point number to string  
+frexp(3c): frexp, frexpl, ldexp, ldexpl, logb, modf, modff, modfl, nextafter, scalb, scalbl - manipulate parts of floating-point numbers  
+isnam(3c): isnan, isnand, isnanf, isnanl, finite, finitel, fpclass, fpclassl, unordered, unorderedl - determine type of floating-point number  
+strtod(3c): strtod, strtold, atof - convert string to double-precision number  
+a64l(3c): a64l, l64a - convert between long integer and base-64 ASCII string  
+abort(3c): abort - generate an abnormal termination signal  
+abs(3c): abs, labs - return integer absolute value  
+atexit(3c): atexit - add program termination routine  
+addseverity(3c): addseverity - build a list of severity levels for an application for use with fmtmsg  
+bsearch(3c): bsearch - binary search a sorted table  
+catgets(3c): catgets - read a program message  
+catopen(3c): catopen, catclose - open/close a message catalogue  
+clock(3c): clock - report CPU time used  
+conv(3c): toupper, tolower, _toupper, _tolower, toascii - translate characters  
+crypt(3c): crypt, setkey, encrypt - generate encryption  
+ctime(3c): ctime, localtime, gmtime, asctime, tzset - convert date and time to string  
+ctype(3c): isdigit, isxdigit, islower, isupper, isalpha, isalnum, isspace, iscntrl, ispunct, isprint, isgraph, isascii - character handling  
+difftime(3c): difftime - computes the difference between two calendar times  
+div(3c): div, ldiv - compute the quotient and remainder  
+directory(3c): opendir, readdir, telldir, seekdir, rewinddir, closedir - directory operations  
+drand48(3c): drand48, erand48, lrand48, nrand48, mrand48, jrand48, srand48, seed48, lcong48 - generate uniformly distributed pseudo-random numbers  
+dup2(3c): dup2 - duplicate an open file descriptor  
+end(3c): end, etext, edata - last locations in program  
+fattach(3c): fattach - attach a STREAMS-based file descriptor to an object in the file system name space  
+fdetach(3c): fdetach - detach a name from a STREAMS-based file descriptor  
+ffs(3c): ffs - find first set bit  
+fmtmsg(3c): fmtmsg - display a message on stderr or system console  
+fpgetround(3c): fpgetround, fpsetround, fpgetmask, fpsetmask, fpgetsticky, fpsetsticky - IEEE floating-point environment control  
+fsetpos(3c): fsetpos, fgetpos - reposition a file pointer in a stream  
+ftw(3c): ftw, nftw - walk a file tree  
+getcwd(3c): getcwd - get pathname of current working directory  
+getdate(3c): getdate - convert user format date and time  
+getenv(3c): getenv - return value for environment name  
+getgrent(3c): getgrent, getgrgid, getgrnam, setgrent, endgrent, fgetgrent - get group file entry  
+getitimer(3c): getitimer, setitimer - get/set value of interval timer  
+getlogin(3c): getlogin - get login name  
+getmntent(3c): getmntent, getmntany - get mnttab file entry  
+getopt(3c): getopt - get option letter from argument vector  
+getpass(3c): getpass - read a password  
+getpw(3c): getpw - get name from UID  
+getpwent(3c): getpwent, getpwuid, getpwnam, setpwent, endpwent, fgetpwent - manipulate password file entry  
+getspent(3c): getspent, getspnam, setspent, endspent, fgetspent, lckpwdf, ulckpwdf - manipulate shadow password file entry  
+getsubopt(3c): getsubopt - parse suboptions from a string  
+gettimeofday(3c): gettimeofday, settimeofday - get or set the date and time  
+gettxt(3c): gettxt - retrieve a text string  
+getut(3c): getutent, getutid, getutline, pututline, setutent, endutent, utmpname - access utmp file entry  
+getutx(3c): getutxent, getutxid, getutxline, pututxline, setutxent, endutxent, utmpxname, getutmp, getutmpx, updwtmp, updwtmpx - access utmpx file entry  
+getvfsent(3c): getvfsent, getvfsfile, getvfsspec, getvfsany - get vfstab file entry  
+grantpt(3c): grantpt - grant access to the slave pseudo-terminal device  
+hsearch(3c): hsearch, hcreate, hdestroy - manage hash search tables  
+initgroups(3c): initgroups - initialize the supplementary group access list  
+insque(3c): insque, remque - insert/remove element from a queue  
+isastream(3c): isastream - test a file descriptor  
+l3tol(3c): l3tol, ltol3 - convert between 3-byte integers and long integers  
+localeconv(3c): localeconv - get numeric formatting information  
+lockf(3c): lockf - record locking on files  
+lsearch(3c): lsearch, lfind - linear search and update  
+makecontect(3c): makecontext, swapcontext - manipulate user contexts  
+makedev(3c): makedev, major, minor - manage a device number  
+malloc(3c): malloc, free, realloc, calloc, memalign, valloc, - memory allocator  
+mbchar(3c): mbtowc, mblen, wctomb - multibyte character handling  
+mbstring(3c): mbstowcs, wcstombs - multibyte string functions  
+memory(3c): memccpy, memchr, memcmp, memcpy, memmove, memset - memory operations  
+mkfifo(3c): mkfifo - create a new FIFO  
+mktemp(3c): mktemp - make a unique file name  
+mktime(3c): mktime - converts a tm structure to a calendar time  
+mlock(3c): mlock, munlock - lock (or unlock) pages in memory  
+mlockall(3c): mlockall, munlockall - lock or unlock address space  
+monitor(3c): monitor - prepare execution profile  
+msync(3c): msync - synchronize memory with physical storage  
+nl_langinfo(3c): nl_langinfo - language information  
+perror(3c): perror - print system error messages  
+offsetof(3c): offsetof - offset of structure member  
+psignal(3c): psignal, psiginfo - system signal messages  
+ptsname(3c): ptsname - get name of the slave pseudo-terminal device  
+putenv(3c): putenv - change or add value to environment  
+putpwent(3c): putpwent - write password file entry  
+putspent(3c): putspent - write shadow password file entry  
+qsort(3c): qsort - quicker sort  
+raise(3c): raise - send signal to program  
+rand(3c): rand, srand - simple random-number generator  
+realpath(3c): realpath - returns the real file name  
+remove(3c): remove - remove file  
+select(3c): select - synchronous I/O multiplexing  
+setjmp(3c): setjmp, longjmp - non-local goto  
+setlocale(3c): setlocale - modify and query a program's locale  
+sigsetjmp(3c): sigsetjmp, siglongjmp - a non-local goto with signal state  
+sigsetops(3c): sigemptyset, sigfillset, sigaddset, sigdelset, sigismember - manipulate sets of signals  
+sleep(3c): sleep - suspend execution for interval  
+ssignal(3c): ssignal, gsignal - software signals  
+stdipc(3c): ftok - standard interprocess communication package  
+strcoll(3c): strcoll - string collation  
+strerror(3c): strerror - get error message string  
+strftime(3c): strftime, cftime, ascftime - convert date and time to string  
+string(3c): strcat, strdup, strncat, strcmp, strncmp, strcpy, strncpy, strlen, strchr, strrchr, strpbrk, strspn, strcspn, strtok, strstr - string operations  
+strtol(3c): strtol, strtoul, atol, atoi - convert string to integer  
+strxfrm(3c): strxfrm - string transformation  
+swab(3c): swab - swap bytes  
+sysconf(3c): sysconf - get configurable system variables  
+tcsetpgrp(3c): tcsetpgrp - set terminal foreground process group id  
+truncate(3c): truncate, ftruncate - set a file to a specified length  
+tsearch(3c): tsearch, tfind, tdelete, twalk - manage binary search trees  
+ttyname(3c): ttyname, isatty - find name of a terminal  
+ttyslot(3c): ttyslot - find the slot in the utmp file of the current user  
+unlockpt(3c): unlockpt - unlock a pseudo-terminal master/slave pair  
+elf(3e): elf - object file access library  
+elf_begin(3e): elf_begin - make a file descriptor  
+elf_cntl(3e): elf_cntl - control a file descriptor  
+elf_end(3e): elf_end - finish using an object file  
+elf_error(3e): elf_errmsg, elf_errno - error handling  
+elf_fill(3e): elf_fill - set fill byte  
+elf_flag(3e): elf_flagdata, elf_flagehdr, elf_flagelf, elf_flagphdr, elf_flagscn, elf_flagshdr - manipulate flags  
+elf_fsize(3e): elf_fsize: elf32_fsize - return the size of an object file type  
+elf_getarhdr(3e): elf_getarhdr - retrieve archive member header  
+elf_getarsym(3e): elf_getarsym - retrieve archive symbol table  
+elf_getbase(3e): elf_getbase - get the base offset for an object file  
+elf_getdata(3e): elf_getdata, elf_newdata, elf_rawdata - get section data  
+elf_getehdr(3e): elf_getehdr: elf32_getehdr, elf32_newehdr - retrieve class-dependent object file header  
+elf_getident(3e): elf_getident - retrieve file identification data  
+elf_getphdr(3e): elf_getphdr: elf32_getphdr, elf32_newphdr - retrieve class-dependent program header table  
+elf_getscn(3e): elf_getscn, elf_ndxscn, elf_newscn, elf_nextscn - get section information  
+elf_getshdr(3e): elf_getshdr: elf32_getshdr - retrieve class-dependent section header  
+elf_hash(3e): elf_hash - compute hash value  
+elf_kind(3e): elf_kind - determine file type  
+elf_next(3e): elf_next - sequential archive member access  
+elf_rand(3e): elf_rand - random archive member access  
+elf_rawfile(3e): elf_rawfile - retrieve uninterpreted file contents  
+elf_strptr(3e): elf_strptr - make a string pointer  
+elf_update(3e): elf_update - update an ELF descriptor  
+elf_version(3e): elf_version - coordinate ELF library and application versions  
+elf_xlate(3e): elf_xlate: elf32_xlatetof, elf32_xlatetom - class-dependent data translation  
+nlist(3e): nlist - get entries from name list  
+basename(3g): basename - return the last element of a path name  
+bgets(3g): bgets - read stream up to next delimiter  
+bufsplit(3g): bufsplit - split buffer into fields  
+copylist(3g): copylist - copy a file into memory  
+dirname(3g): dirname - report the parent directory name of a file path name  
+gmatch(3g): gmatch - shell global pattern matching  
+isencrypt(3g): isencrypt - determine whether a character buffer is encrypted  
+mkdirp(3g): mkdirp, rmdirp - create, remove directories in a path  
+p2open(3g): p2open, p2close - open, close pipes to and from a command  
+pathfind(3g): pathfind - search for named file in named directories  
+regcmp(3g): regcmp, regex - compile and execute regular expression  
+regexpr(3g): compile, step, advance - regular expression compile and match routines  
+str(3g): strfind, strrspn, strtrns - string manipulations  
+strrcpy(3g): streadd, strcadd, strecpy - copy strings, compressing or expanding escape codes  
+intro(3m): intro - introduction to math libraries  
+bessel(3m): j0, j1, jn, y0, y1, yn - Bessel functions  
+erf(3m): erf, erfc - error function and complementary error function  
+exp(3m): exp, expf, cbrt, log, logf, log10, log10f, pow, powf, sqrt, sqrtf - exponential, logarithm, power, square root functions  
+floor(3m): floor, floorf, ceil, ceilf, copysign, fmod, fmodf, fabs, fabsf, rint, remainder - floor, ceiling, remainder, absolute value functions  
+gamma(3m): gamma, lgamma - log gamma function  
+hypot(3m): hypot - Euclidean distance function  
+matherr(3m): matherr - error-handling function  
+sinh(3m): sinh, sinhf, cosh, coshf, tanh, tanhf, asinh, acosh, atanh - hyperbolic functions  
+trig(3m): sin, sinf, cos, cosf, tan, tanf, asin, asinf, acos, acosf, atan, atanf, atan2, atan2f - trigonometric functions  
+accept(3n): accept - accept a connection on a socket  
+bind(3n): bind - bind a name to a socket  
+byteorder(3n): byteorder, htonl, htons, ntohl, ntohs - convert values between host and network byte order  
+connect(3n): connect - initiate a connection on a socket  
+dial(3n): dial - establish an outgoing terminal line connection  
+doconfig(3n): doconfig - execute a configuration script  
+ethers(3n): ethers - Ethernet address mapping operations  
+gethostent(3n): gethostent, gethostbyaddr, gethostbyname, sethostent, endhostent - get network host entry  
+getnetconfig(3n): getnetconfig - get network configuration database entry  
+getnetent(3n): getnetent, getnetbyaddr, getnetbyname, setnetent, endnetent - get network entry  
+getnetpath(3n): getnetpath - get netconfig entry corresponding to NETPATH component  
+getpeername(3n): getpeername - get name of connected peer  
+getprotoent(3n): getprotoent, getprotobynumber, getprotobyname, setprotoent, endprotoent - get protocol entry  
+getservent(3n): getservent, getservbyport, getservbyname, setservent, endservent - get service entry  
+getsockname(3n): getsockname - get socket name  
+getsockopt(3n): getsockopt, setsockopt - get and set options on sockets  
+inet(3n): inet_addr, inet_network, inet_makeaddr, inet_lnaof, inet_netof, inet_ntoa - Internet address manipulation  
+intro(3n): intro - introduction to networking functions and libraries  
+listen(3n): listen - listen for connections on a socket  
+netdir(3n): netdir_getbyname, netdir_getbyaddr, netdir_free, netdir_mergeaddr, taddr2uaddr, uaddr2taddr, netdir_perror, netdir_sperror - generic transport name-to-address translation  
+nlsgetcall(3n): nlsgetcall - get client's data passed via the listener  
+nlsprovider(3n): nlsprovider - get name of transport provider  
+nlsrequest(3n): nlsrequest - format and send listener service request message  
+publickey(3n): getpublickey, getsecretkey - retrieve public or secret key  
+recv(3n): recv, recvfrom, recvmsg - receive a message from a socket  
+resolver(3n): resolver, res_mkquery, res_send, res_init, dn_comp, dn_expand - resolver routines  
+rexec(3n): rexec - return stream to a remote command  
+rpc(3n): rpc - library routines for remote procedure calls  
+rpc_svc_err(3n): rpc_svc_err: svcerr_auth, svcerr_decode, svcerr_noproc, svcerr_noprog, svcerr_progvers, svcerr_systemerr, svcerr_weakauth - library routines for server side remote procedure call errors  
+rpc_clnt_auth(3n): rpc_clnt_auth: auth_destroy, authnone_create, authsys_create, authsys_create_default - library routines for client side remote procedure call authentication  
+rcp_clnt_calls(3n): rpc_clnt_calls: clnt_call, clnt_freeres, clnt_geterr, clnt_perrno, clnt_perror, clnt_sperrno, clnt_sperror, rpc_broadcast, rpc_call - library routines for client side calls  
+rpc_clnt_create(3n): rpc_clnt_create: clnt_control, clnt_create, clnt_destroy, clnt_dg_create, clnt_pcreateerror, clnt_raw_create, clnt_spcreateerror, clnt_tli_create, clnt_tp_create, clnt_vc_create - library routines for dealing with creation and manipulation of CLIENT handles  
+rpc_svc_calls(3n): rpc_svc_calls: rpc_reg, svc_reg, svc_unreg, xprt_register, xprt_unregister - library routines for registering servers  
+rpc_svc_create(3n): rpc_svc_create: svc_create, svc_destroy, svc_dg_create, svc_fd_create, svc_raw_create, svc_tli_create, svc_tp_create, svc_vc_create - library routines for dealing with the creation of server handles  
+rpc_svc_reg(3n): rpc_svc_reg: svc_freeargs, svc_getargs, svc_getreqset, svc_getrpccaller, svc_run, svc_sendreply - library routines for RPC servers  
+rpc_xdr(3n): rpc_xdr: xdr_accepted_reply, xdr_authsys_parms, xdr_callhdr, xdr_callmsg, xdr_opaque_auth, xdr_rejected_reply, xdr_replymsg - XDR library routines for remote procedure calls  
+rpcbind(3n): rpcb_getmaps, rpcb_getaddr, rpcb_gettime, rpcb_rmtcall, rpcb_set, rpcb_unset - library routines for RPC bind service  
+rusers(3n): rusers - return information about users on remote machines  
+rwall(3n): rwall - write to specified remote machines  
+secure_rpc(3n): secure_rpc: authdes_seccreate, authdes_getucred, getnetname, host2netname, key_decryptsession, key_encryptsession, key_gendes, key_setsecret, netname2host, netname2user, user2netname - library routines for secure remote procedure calls  
+send(3n): send, sendto, sendmsg - send a message from a socket  
+shutdown(3n): shutdown - shut down part of a full-duplex connection  
+socket(3n): socket - create an endpoint for communication  
+socketpair(3n): socketpair - create a pair of connected sockets  
+spray(3n): spray - scatter data in order to check the network  
+t_accept(3n): t_accept - accept a connect request  
+t_alloc(3n): t_alloc - allocate a library structure  
+t_bind(3n): t_bind - bind an address to a transport endpoint  
+t_close(3n): t_close - close a transport endpoint  
+t_connect(3n): t_connect - establish a connection with another transport user  
+t_error(3n): t_error - produce error message  
+t_free(3n): t_free - free a library structure  
+t_getinfo(3n): t_getinfo - get protocol-specific service information  
+t_getstate(3n): t_getstate - get the current state  
+t_listen(3n): t_listen - listen for a connect request  
+t_look(3n): t_look - look at the current event on a transport endpoint  
+t_open(3n): t_open - establish a transport endpoint  
+t_optmgmt(3n): t_optmgmt - manage options for a transport endpoint  
+t_rcv(3n): t_rcv - receive data or expedited data sent over a connection  
+t_rcvconnect(3n): t_rcvconnect - receive the confirmation from a connect request  
+t_rcvdis(3n): t_rcvdis - retrieve information from disconnect  
+t_rcvrel(3n): t_rcvrel - acknowledge receipt of an orderly release indication  
+t_rcvudata(3n): t_rcvudata - receive a data unit  
+t_rcvuderr(3n): t_rcvuderr - receive a unit data error indication  
+t_snd(3n): t_snd - send data or expedited data over a connection  
+t_snddis(3n): t_snddis - send user-initiated disconnect request  
+t_sndrel(3n): t_sndrel - initiate an orderly release  
+t_sndudata(3n): t_sndudata - send a data unit  
+t_sync(3n): t_sync - synchronize transport library  
+t_unbind(3n): t_unbind - disable a transport endpoint  
+xdr(3n): xdr - library routines for external data representation  
+xdr_admin(3n): xdr_admin: xdr_getpos, xdr_inline, xdrrec_eof, xdr_setpos - library routines for external data representation  
+xdr_complex(3n): xdr_complex: xdr_array, xdr_bytes, xdr_opaque, xdr_pointer, xdr_reference, xdr_string, xdr_union, xdr_vector, xdr_wrapstring - library routines for external data representation  
+xdr_create(3n): xdr_create: xdr_destroy, xdrmem_create, xdrrec_create, xdrstdio_create - library routines for external data representation stream creation  
+xdr_simple(3n): xdr_simple: xdr_bool, xdr_char, xdr_double, xdr_enum, xdr_float, xdr_free, xdr_int, xdr_long, xdr_short, xdr_u_char, xdr_u_long, xdr_u_short, xdr_void - library routines for external data representation  
+ypclnt(3n): ypclnt, yp_get_default_domain, yp_bind, yp_unbind, yp_match, yp_first, yp_next, yp_all, yp_order, yp_master, yperr_string, ypprot_err - NIS client interface  
+ypudate(3n): yp_update - change NIS information  
+ctermid(3s): ctermid - generate file name for terminal  
+cuserid(3s): cuserid - get character login name of the user  
+fclose(3s): fclose, fflush - close or flush a stream  
+ferror(3s): ferror, feof, clearerr, fileno - stream status inquiries  
+fopen(3s): fopen, freopen, fdopen - open a stream  
+fread(3s): fread, fwrite - binary input/output  
+fseek(3s): fseek, rewind, ftell - reposition a file pointer in a stream  
+getc(3s): getc, getchar, fgetc, getw - get character or word from a stream  
+gets(3s): gets, fgets - get a string from a stream  
+popen(3s): popen, pclose - initiate pipe to/from a process  
+printf(3s): printf, fprintf, sprintf - print formatted output  
+putc(3s): putc, putchar, fputc, putw - put character or word on a stream  
+puts(3s): puts, fputs - put a string on a stream  
+scanf(3s): scanf, fscanf, sscanf - convert formatted input  
+setbuf(3s): setbuf, setvbuf - assign buffering to a stream  
+stdio(3s): stdio - standard buffered input/output package  
+system(3s): system - issue a shell command  
+tmpfile(3s): tmpfile - create a temporary file  
+tmpnam(3s): tmpnam, tempnam - create a name for a temporary file  
+ungetc(3s): ungetc - push character back onto input stream  
+vprintf(3s): vprintf, vfprintf, vsprintf - print formatted output of a variable argument list  
+assert(3s): assert - verify program assertion  
+crypt(3x): crypt - password and file encryption functions  
+curs_addch(3x): curs_addch: addch, waddch, mvaddch, mvwaddch, echochar, wechochar - add a character (with attributes) to a curses window and advance cursor  
+curs_addchst(3x): curs_addchstr: addchstr, addchnstr, waddchstr, waddchnstr, mvaddchstr, mvaddchnstr, mvwaddchstr, mvwaddchnstr - add string of characters (and attributes) to a curses window  
+curs_addstr(3x): curs_addstr: addstr, addnstr, waddstr, waddnstr, mvaddstr, mvaddnstr, mvwaddstr, mvwaddnstr - add a string of characters to a curses window and advance cursor  
+curs_attr(3x): curs_attr: attroff, wattroff, attron, wattron, attrset, wattrset, standend, wstandend, standout, wstandout - curses character and window attribute control routines  
+curs_beep(3x): curs_beep: beep, flash - curses bell and screen flash routines  
+curs_bkgd(3x): curs_bkgd: bkgdset, wbkgdset, bkgd, wbkgd - curses window background manipulation routines  
+curs_border(3x): curs_border: border, wborder, box, hline, whline, vline, wvline - create curses borders, horizontal and vertical lines  
+curs_clear(3x): curs_clear: erase, werase, clear, wclear, clrtobot, wclrtobot, clrtoeol, wclrtoeol - clear all or part of a curses window  
+curs_color(3x): curs_color: start_color, init_pair, init_color, has_colors, can_change_color, color_content, pair_content - curses color manipulation routines  
+curs_delch(3x): curs_delch: delch, wdelch, mvdelch, mvwdelch - delete character under cursor in a curses window  
+curs_delln(3x): curs_deleteln: deleteln, wdeleteln, insdelln, winsdelln, insertln, winsertln - delete and insert lines in a curses window  
+curs_getch(3x): curs_getch: getch, wgetch, mvgetch, mvwgetch, ungetch - get (or push back) characters from curses terminal keyboard  
+curs_getyx(3x): curs_getyx: getyx, getparyx, getbegyx, getmaxyx - get curses cursor and window coordinates  
+curs_getstr(3x): curs_getstr: getstr, wgetstr, mvgetstr, mvwgetstr, wgetnstr - get character strings from curses terminal keyboard  
+curs_inch(3x): curs_inch: inch, winch, mvinch, mvwinch - get a character and its attributes from a curses window  
+curs_inchstr(3x): curs_inchstr: inchstr, inchnstr, winchstr, winchnstr, mvinchstr, mvinchnstr, mvwinchstr, mvwinchnstr - get a string of characters (and attributes) from a curses window  
+curs_initscr(3x): curs_initscr: initscr, newterm, endwin, isendwin, set_term, delscreen - curses screen initialization and manipulation routines  
+curs_inopts(3x): curs_inopts: cbreak, nocbreak, echo, noecho, halfdelay, intrflush, keypad, meta, nodelay, notimeout, raw, noraw, noqiflush, qiflush, timeout, wtimeout, typeahead - curses terminal input option control routines  
+curs_insch(3x): curs_insch: insch, winsch, mvinsch, mvwinsch - insert a character before the character under the cursor in a curses window  
+curs_insstr(3x): curs_instr: insstr, insnstr, winsstr, winsnstr, mvinsstr, mvinsnstr, mvwinsstr, mvwinsnstr - insert string before character under the cursor in a curses window  
+curs_instr(3x): curs_instr: instr, innstr, winstr, winnstr, mvinstr, mvinnstr, mvwinstr, mvwinnstr - get a string of characters from a curses window  
+curs_kernel(3x): curs_kernel: def_prog_mode, def_shell_mode, reset_prog_mode, reset_shell_mode, resetty, savetty, getsyx, setsyx, ripoffline, curs_set, napms - low-level curses routines  
+curs_move(3x): curs_move: move, wmove - move curses window cursor  
+curs_outopts(3x): curs_outopts: clearok, idlok, idcok immedok, leaveok, setscrreg, wsetscrreg, scrollok, nl, nonl - curses terminal output option control routines  
+curs_overlay(3x): curs_overlay: overlay, overwrite, copywin - overlap and manipulate overlapped curses windows  
+curs_pad(3x): curs_pad: newpad, subpad, prefresh, pnoutrefresh, pechochar - create and display curses pads  
+curs_printw(3x): curs_printw: printw, wprintw, mvprintw, mvwprintw, vwprintw - print formatted output in curses windows  
+curs_refresh(3x): curs_refresh: refresh, wrefresh, wnoutrefresh, doupdate, redrawwin, wredrawln - refresh curses windows and lines  
+curs_scanw(3x): curs_scanw: scanw, wscanw, mvscanw, mvwscanw, vwscanw - convert formatted input from a curses widow  
+curs_scr_dmp(3x): curs_scr_dump: scr_dump, scr_restore, scr_init, scr_set - read (write) a curses screen from (to) a file  
+curs_scroll(3x): curs_scroll: scroll, srcl, wscrl - scroll a curses window  
+curs_slk(3x): curs_slk: slk_init, slk_set, slk_refresh, slk_noutrefresh, slk_label, slk_clear, slk_restore, slk_touch, slk_attron, slk_attrset, slk_attroff - curses soft label routines  
+curs_termatt(3x): curs_termattrs: baudrate, erasechar, has_ic, has_il, killchar, longname, termattrs, termname - curses environment query routines  
+curs_termcap(3x): curs_termcap: tgetent, tgetflag, tgetnum, tgetstr, tgoto, tputs - curses interfaces (emulated) to the termcap library  
+curs_termin(3x): curs_terminfo: setupterm, setterm, set_curterm, del_curterm, restartterm, tparm, tputs, putp, vidputs, vidattr, mvcur, tigetflag, tigetnum, tigetstr - curses interfaces to terminfo database  
+curs_touch(3x): curs_touch: touchwin, touchline, untouchwin, wtouchln, is_linetouched, is_wintouched - curses refresh control routines  
+curs_util(3x): curs_util: unctrl, keyname, filter, use_env, putwin, getwin, delay_output, flushinp - miscellaneous curses utility routines  
+curs_window(3x): curs_window: newwin, delwin, mvwin, subwin, derwin, mvderwin, dupwin, wsyncup, syncok, wcursyncup, wsyncdown - create curses windows  
+curses(3x): curses - CRT screen handling and optimization package  
+dlclose(3x): dlclose - close a shared object  
+dlerror(3x): dlerror - get diagnostic information  
+dlopen(3x): dlopen - open a shared object  
+dlsym(3x): dlsym - get the address of a symbol in shared object  
+form_cursor(3x): form_cursor: pos_form_cursor - position forms window cursor  
+form_data(3x): form_data: data_ahead, data_behind - tell if forms field has off-screen data ahead or behind  
+form_driver(3x): form_driver - command processor for the forms subsystem  
+form_field(3x): form_field: set_form_fields, form_fields, field_count, move_field - connect fields to forms  
+form_hook(3x): form_hook: set_form_init, form_init, set_form_term, form_term, set_field_init, field_init, set_field_term, field_term - assign application-specific routines for invocation by forms  
+form_field_attributes(3x): form_field_attributes: set_field_fore, field_fore, set_field_back, field_back, set_field_pad, field_pad - format the general display attributes of forms  
+form_field_buffer(3x): form_field_buffer: set_field_buffer, field_buffer, set_field_status, field_status, set_max_field - set and get forms field attributes  
+form_field_info(3x): form_field_info: field_info, dynamic_field_info - get forms field characteristics  
+form_field_just(3x): form_field_just: set_field_just, field_just - format the general appearance of forms  
+form_field_new(3x): form_field_new: new_field, dup_field, link_field, free_field, - create and destroy forms fields  
+form_field_opts(3x): form_field_opts: set_field_opts, field_opts_on, field_opts_off, field_opts - forms field option routines  
+form_field_userptr(3x): form_field_userptr: set_field_userptr, field_userptr - associate application data with forms  
+form_field_validation(3x): form_field_validation: set_field_type, field_type, field_arg - forms field data type validation  
+form_fieldtype(3x): form_fieldtype: new_fieldtype, free_fieldtype, set_fieldtype_arg, set_fieldtype_choice, link_fieldtype - forms fieldtype routines  
+form_new(3x): form_new: new_form, free_form - create and destroy forms  
+form_opts(3x): form_opts: set_form_opts, form_opts_on, form_opts_off, form_opts - forms option routines  
+form_new_page(3x): form_new_page: set_new_page, new_page - forms pagination  
+form_page(3x): form_page: set_form_page, form_page, set_current_field, current_field, field_index - set forms current page and field  
+form_post(3x): form_post: post_form, unpost_form - write or erase forms from associated subwindows  
+form_userptr(3x): form_userptr: set_form_userptr, form_userptr - associate application data with forms  
+form_win(3x): form_win: set_form_win, form_win, set_form_sub, form_sub, scale_form - forms window and subwindow association routines  
+forms(3x): forms - character based forms package  
+libwindows(3x): libwindows - windowing terminal function library  
+maillock(3x): maillock - manage lockfile for user's mailbox  
+malloc(3x): malloc, free, realloc, calloc, mallopt, mallinfo - memory allocator  
+menu_cursor(3x): menu_cursor: pos_menu_cursor - correctly position a menus cursor  
+menu_attributes(3x): menu_attributes: set_menu_fore, menu_fore, set_menu_back, menu_back, set_menu_grey, menu_grey, set_menu_pad, menu_pad - control menus display attributes  
+menu_driver(3x): menu_driver - command processor for the menus subsystem  
+menu_format(3x): menu_format: set_menu_format, menu_format - set and get maximum numbers of rows and columns in menus  
+menu_hook(3x): menu_hook: set_item_init, item_init, set_item_term, item_term, set_menu_init, menu_init, set_menu_term, menu_term - assign application- specific routines for automatic invocation by menus  
+menu_items(3x): menu_items: set_menu_items, menu_items, item_count - connect and dis- connect items to and from menus  
+menu_item_current(3x): menu_item_current: set_current_item, current_item, set_top_row, top_row, item_index - set and get current menus items  
+menu_item_name(3x): menu_item_name: item_name, item_description - get menus item name and description  
+menu_item_new(3x): menu_item_new: new_item, free_item - create and destroy menus items  
+menu_item_opts(3x): menu_item_opts: set_item_opts, item_opts_on, item_opts_off, item_opts - menus item option routines  
+menu_item_userptr(3x): menu_item_userptr: set_item_userptr, item_userptr - associate application data with menus items  
+menu_item_value(3x): menu_item_value: set_item_value, item_value - set and get menus item values  
+menu_item_visible(3x): menu_item_visible: item_visible - tell if menus item is visible  
+menu_mark(3x): menu_mark: set_menu_mark, menu_mark - menus mark string routines  
+menu_new(3x): menu_new: new_menu, free_menu - create and destroy menus  
+menu_opts(3x): menu_opts: set_menu_opts, menu_opts_on, menu_opts_off, menu_opts - menus option routines  
+menu_pattern(3x): menu_pattern: set_menu_pattern, menu_pattern - set and get menus pattern match buffer  
+menu_post(3x): menu_post: post_menu, unpost_menu - write or erase menus from associated subwindows  
+menu_userptr(3x): menu_userptr: set_menu_userptr, menu_userptr - associate application data with menus  
+menu_win(3x): menu_win: set_menu_win, menu_win, set_menu_sub, menu_sub, scale_menu - menus window and subwindow association routines  
+menus(3x): menus - character based menus package  
+panel_above(3x): panel_above: panel_above, panel_below - panels deck traversal primitives  
+panel_move(3x): panel_move: move_panel - move a panels window on the virtual screen  
+panel_new(3x): panel_new: new_panel, del_panel - create and destroy panels  
+panel_show(3x): panel_show: show_panel, hide_panel, panel_hidden - panels deck manipulation routines  
+panel_top(3x): panel_top: top_panel, bottom_panel - panels deck manipulation routines  
+panel_update(3x): panel_update: update_panels - panels virtual screen refresh routine  
+panel_window(3x): panel_window: panel_window, replace_panel - get or set the current window of a panels panel  
+panel_userptr(3x): panel_userptr: set_panel_userptr, panel_userptr - associate application data with a panels panel  
+panels(3x): panels - character based panels package  
+sputl(3x): sputl, sgetl - access long integer data in a machine-independent fashion  
+tam(3x): tam - TAM transition libraries  
+closeall(3): closeall - close all files  
+efopen(3): efopen - open a stream, checking for errors  
+error(3): error, warning - print error messages  
+fgetmfs(3): fgetmfs - read an arbitrarily long, possibly continued line  
+standard(3): standard, safe - standardize conditions in preparation for exec  
+split(3): split - split string into fields  
+getabsdate(3): getabsdate, prsabsdate, getindate, prsindate - date and time parsers  
+getopt(3): getopt - get option letter from argv  
+boot(4): boot  
+cron(4): cron  
+dump(4): dump  
+login(4): login - login default file  
+environ(4): .environ, .pref, .variables - user-preference variable files for FACE  
+limits(4): limits - header file for implementation-specific constants  
+mfsys(4): mfsys - file format.  
+mapchan(4): mapchan - Format of tty device mapping files.  
+mdevice(4): mdevice - file format.  
+mtune(4): mtune - file format.  
+sfsys(4): sfsys - file format.  
+phones(4): phones - remote host phone number data base  
+remote(4): remote - remote host description file  
+rt_dptbl(4): rt_dptbl - real-time dispatcher parameter table  
+sdevice(4): sdevice - file format.  
+stune(4): stune - file format.  
+su(4): su  
+sv(4): sv - Dell SmartVu device driver  
+term(4): term - format of compiled term file  
+syslog.conf(4b): syslog.conf - configuration file for syslogd system log daemon  
+ts_dptbl(4): ts_dptbl - time-sharing dispatcher parameter table  
+aliases(4b): aliases, addresses, forward - addresses and aliases for sendmail  
+a.out(4): a.out - ELF (Executable and Linking Format) files  
+acct(4): acct - per-process accounting file format  
+admin(4): admin - installation defaults file  
+ar(4): ar - archive file format  
+core(4): core - core image file  
+archives(4): archives - device header file  
+binarsys(4): binarsys - remote system information for the ckbinarsys command  
+compver(4): compver - compatible versions file  
+copyright(4): copyright - copyright information file  
+fd(4): /dev/fd - file descriptor files  
+depend(4): depend - software dependencies files  
+dfstab(4): dfstab - file containing commands for sharing resources  
+dir_s5(4): dir (s5) - format of s5 directories  
+dir_ufs(4): dir (ufs) - format of ufs directories  
+dirent(4): dirent - file system independent directory entry  
+ethers(4): ethers - Ethernet address to hostname database or domain  
+fs_s5(4): fs (s5) - format of s5 file system volume  
+filehdr(4): filehdr - file header for common object files  
+fs_bfs(4): fs (bfs) - format of the bfs file system volume  
+fspec(4): fspec - format specification in text files  
+fs_ufs(4): fs (ufs) - format of ufs file system volume  
+group(4): group - group file  
+fstypes(4): fstypes - file that registers distributed file system packages  
+hosts(4): hosts - host name data base  
+issue(4): issue - issue identification file  
+hosts.equiv(4): hosts.equiv, .rhosts - trusted hosts by system and by user  
+inetd.conf(4): inetd.conf - Internet servers database  
+inittab(4): inittab - script for init  
+inode_bfs(4): inode (bfs) - format of a bfs i-node  
+inode_s5(4): inode (s5) - format of an s5 i-node  
+inode_ufs(4): inode (ufs) - format of a ufs inode  
+intro_prm(4): intro - introduction to file formats  
+intro_sarm(4): intro - introduction to file formats  
+netrc(4): netrc - file for ftp remote login data  
+loginlog(4): loginlog - log of failed login attempts  
+mailcnfg(4): mailcnfg - initialization information for mail and rmail  
+mailsurr(4): mailsurr - surrogate commands for routing and transport of mail  
+mnttab(4): mnttab - mounted file system table  
+netconfig(4): netconfig - network configuration database  
+netmasks(4): netmasks - network mask data base  
+ott(4): .ott - FACE object architecture information  
+networks(4): networks - network name data base  
+pnch(4): pnch - file format for card images  
+passwd(4): passwd - password file  
+pathalias(4): pathalias - alias file for FACE  
+pkginfo(4): pkginfo - package characteristics file  
+pkgmap(4): pkgmap - package contents description file  
+proc(4): /proc - process file system  
+rpc(4): rpc - rpc program number data base  
+profile(4): profile - setting up an environment at login time  
+protocols(4): protocols - protocol name data base  
+prototype(4): prototype - package information file  
+publickey(4): publickey - public key database  
+rfmaster(4): rfmaster - Remote File Sharing name server master file  
+resolv.conf(4): resolv.conf - configuration file for name server routines  
+routing(4): routing - system supporting for packet network routing  
+space(4): space - disk space requirement file  
+sccsfile(4): sccsfile - format of SCCS file  
+services(4): services - Internet services and aliases  
+shadow(4): shadow - shadow password file  
+sharetab(4): sharetab - shared file system table  
+strcf(4): strcf - STREAMS Configuration File for STREAMS TCP/IP  
+utmp(4): utmp, wtmp - utmp and wtmp entry formats  
+strftime(4): strftime - language specific strings  
+terminfo(4): terminfo - terminal capability data base  
+timezone(4): timezone - set default system time zone  
+ttydefs(4): ttydefs - file contains terminal line settings information for ttymon  
+ttysrch(4): ttysrch - directory search list for ttyname  
+unistd(4): unistd - header file for symbolic constants  
+updaters(4): updaters - configuration file for Network Information Service (NIS) updating  
+utmpx(4): utmpx, wtmpx - utmpx and wtmpx entry formats  
+stat(4b): stat - data returned by stat system call  
+vfstab(4): vfstab - table of file system defaults  
+ypfiles(4): ypfiles - the Network Information Service (NIS) database and directory structure  
+ascii(5): ascii - map of ASCII character set  
+fcntl(5): fcntl - file control options  
+intro_386(5): intro - introduction to miscellany  
+jagent(5): jagent - host control of windowing terminal  
+signal(5): signal - base signals  
+environ(5): environ - user environment  
+iconv(5): iconv - code set conversion tables  
+intro(5): intro - introduction to miscellany  
+math(5): math - math functions and constants  
+langinfo(5): langinfo - language information constants  
+layers(5): layers - protocol used between host and windowing terminal under layers(1)  
+prof(5): prof - profile within a function  
+nl_types(5): nl_types - native language data types  
+stat(5): stat - data returned by stat system call  
+regexp(5): compile, step, advance - regular expression compile and match routines  
+siginfo(5): siginfo - signal generation information  
+term(5): term - conventional names for terminals  
+stdarg(5): stdarg - handle variable argument list  
+types(5): types - primitive system data types  
+ucontext(5): ucontext - user context  
+values(5): values - machine-dependent values  
+varargs(5): varargs - handle variable argument list  
+wstat(5): wstat - wait status  
+xtproto(5): xtproto - multiplexed channels protocol used by xt driver  
+news(5): news - USENET network news articles, batches, related files  
+active.times(5): active.times - newsgroup creation times and creators  
+rcsfile(5): rcsfile - format of RCS file  
+eservices(5): eservices - erpcd network services database  
+gateways(5): gateways - Annex network initialization  
+rotaries(5): rotaries - Annex rotary database  
+asy(7): asy - asynchronous serial port  
+cram(7): cram- CMOS RAM interface  
+disk(7): disk - random access bulk storage medium  
+fd(7): fd - diskette (floppy disk)  
+display(7): display - system console display  
+hd(7): hd - hard (fixed) disk  
+ie6(7): ie6 - 3C503 3Com Ethernet Driver  
+intro(7): intro - introduction to special files  
+lp(7): lp - parallel port interface  
+keyboard(7): keyboard - system console keyboard  
+mouse(7): mouse - mouse device driver supporting bus, serial, and PS/2 compatible mouse devices.  
+qt(7): qt - QIC cartridge magnetic tape streamer interface  
+rtc(7): rtc - real time clock interface  
+slip(7): slip - serial line IP network interface driver  
+scsi_adaptec(7): scsi_adaptec - Adaptec 1542A SCSI host adapter subsystem  
+scsi_cdrom(7): scsi_cdrom - CD-ROM Target Driver  
+scsi_disk(7): scsi_disk - sd01 SCSI disk driver  
+scsi_dpt(7): scsi_dpt - DPT PM2012 SCSI host adapter subsystem  
+scsi_tape(7): scsi_tape - st01 SCSI tape driver  
+scsi_wd7000(7): scsi_wd7000 - WD7000 FASST2 host adapter subsystem  
+scsi_worm(7): scsi_worm - sw01 SCSI WORM Target Driver  
+wd(7): wd - Western Digital 8003 Adapter Board  
+ports(7): ports - five-line asynchronous communications interface STREAMS driver  
+eqnchar(7b): eqnchar - special character definitions for eqn  
+man(7b): man - macros to format Reference Manual pages  
+me(7b): me - macros for formatting papers  
+ms(7b): ms - text formatting macros  
+arp(7): ARP - Address Resolution Protocol  
+clone(7): clone - open any major/minor device pair on a STREAMS driver  
+connld(7): connld - line discipline for unique stream connections  
+console(7): console - STREAMS-based console interface  
+filesystem(7): filesystem - file system organization  
+icmp(7): ICMP - Internet Control Message Protocol  
+if_tcp(7): if - general properties of Internet Protocol network interfaces  
+inet(7): inet - Internet protocol family  
+ip(7): IP - Internet Protocol  
+ldterm(7): ldterm - standard STREAMS terminal line discipline module  
+lo(7): lo - software loopback network interface  
+log(7): log - interface to STREAMS error logging and event tracing  
+mem(7): mem, kmem - core memory  
+null(7): null - the null file  
+pckt(7): pckt - STREAMS Packet Mode module  
+prf(7): prf - operating system profiler  
+ptem(7): ptem - STREAMS Pseudo Terminal Emulation module  
+sa(7): SA - devices administered by System Administration  
+sad(7): sad - STREAMS Administrative Driver  
+sockio(7): sockio - ioctls that operate directly on sockets  
+streamio(7): streamio - STREAMS ioctl commands  
+sxt(7): sxt - pseudo-device driver  
+tcp(7): TCP - Internet Transmission Control Protocol  
+termio(7): termio - general terminal interface  
+termiox(7): termiox - extended general terminal interface  
+ticlts(7): ticlts, ticots, ticotsord - loopback transport providers  
+timod(7): timod - Transport Interface cooperating STREAMS module  
+tirdwr(7): tirdwr - Transport Interface read/write interface STREAMS module  
+ttcompat(7): ttcompat - V7, 4BSD and XENIX STREAMS compatibility module  
+tty(7): tty - controlling terminal interface  
+udp(7): UDP - Internet User Datagram Protocol  
+xt(7): xt - STREAMS-based multiplexed tty driver for AT&T windowing terminals  
+zero(7): zero - source of zeroes  
+bootpd(8): bootpd - Internet Boot Protocol server  
+expire(8): expire, doexpire - expire old news mkhistory - rebuild news history file upact - update news active file recovact - partially recover news active file  
+newsaux(8): spacefor - check available space for news queuelen - get length of outbound-news uucp queues sizeof - get size of file(s) for news ctime, getdate - convert dates to and from internal representation for news newshostname - get host name for news gngp - search text using a newsgroup pattern canonhdr - extract header and canonicalize case in header keywords newslock - do locking for news  
+newsbatch(8): sendbatches, batchsplit - news batching to other sites batcher, batchih, batchsm - news-batch preparation comp, nocomp, compcun, compc7, compb - news-batch compression c7encode, bencode - compressed-news-batch encoding viauux, viauuxz, viauuxcun, viauuxl - news-batch transmission via uucp viamail, viaemail, viapmail - news-batch transmission via mail viainews, viarsh - news-batch transmission by misc. means  
+newsmail(8): mailnews, sendnews - send unbatched news as mail recenews, recpnews - receive mailed news bdecode - decode encoded mailed news  
+newsmaint(8): newshist - extract history line for news article(s) newsdaily - maintain news log files and report problems newswatch - keep an eye on news system for difficulties newsboot - clean up news debris on reboot locknews - lock news system for manual tinkering addgroup, delgroup - add and delete newsgroups, locally only adddirs - make any missing directories for active newsgroups addfeed - add a news feed act.to.times - create active.times file for news readers histfrom, newsfrom - list news arriving over specific time range addmissing - add missing news articles to history file  
+relaynews(8): relaynews - store and forward netnews articles  
+rnews(8): rnews, cunbatch - accept and spool news input newsspool, newsrun, c7decode - news input spooler and processing newsrunning - control news-processing daemon  
+nnmaster(8): nnmaster - nn database manager  
+nnspew(8): nnspew - subject database manager (nn)  
+pathalias(8): pathalias, makedb, arpatxt - mail routing tools  
+uumail(8): uumail - rewrite address & route mail using uucpmap database uupath - print the uucp path to a host  
+uupath(8): uumail - rewrite address & route mail using uucpmap database uupath - print the uucp path to a host  
+ntpdate(8): ntpdate | set the date and time via NTP  
+ntpq(8): ntpq | standard Network Time Protocol query program  
+xntpd(8): xntpd | Network Time Protocol daemon  
+xntpdc(8): xntpdc | query/control program for the Network Time Protocol daemon  
+erpcd(8): erpcd - Annex network services daemon  
+na(8): na - Annex network administrator's utility  
+rtelnet(8): rtelnet - Annex reverse TELNET daemon  
+timserver(8): timserver - standard Internet time server daemon  

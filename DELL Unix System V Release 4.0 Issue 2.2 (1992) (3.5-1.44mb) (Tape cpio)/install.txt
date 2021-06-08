@@ -1,0 +1,57 @@
+Dell Unix on Bochs/Qemu - Install Instructions
+Antoni Sawicki <tenox@tenox.tc>
+==============================================
+ 1. Create a HDD image, note there is no LBA support so make it smaller than 504 MB.
+ 2. Create second hard disk to emulate a tape device.
+ 3. Boot from boot.img swap to system.img and continute.
+ 4. Use option 3 for maintenance.
+ 5. Initialize both disks so the system has active VTOC:
+    # dellsetup -a 0 1
+    The system should have created /home2 on /dev/rdsk/1s1 - this is what we will
+    use for tape emulation. 
+    # umount /mnt/home2 
+ 6. Find out starting sector for disk 1 s1:
+    # prtvtoc /dev/rdsk/1s0
+    Now look for HOME ... starting sector: XXXX
+    On my system it was 378 - remember this value
+ 7. Preserve partitions and vfstab files
+    # cp /mnt/etc/* /tmp
+ 8. On the host system preload the tape file1 to the disk 1 slice 1
+    On my system I did following (trans.img is ata0-slave):
+    # losetup /dev/loop0 trans.img
+    # dd if=DellSVR4/Factory/file1 of=/dev/loop0 bs=512 seek=378
+    Remember to use your starting sector value instead 378
+    If on Windows you can use Winhex to plant the file at offset.
+ 9. On the unix side extract the contents:
+    # cd /mnt
+    # cpio -icdmuDk < /dev/dsk/1s1
+NOTE: at this point you have access to all "regular" unix commands!
+10. Restore partitions and vfstab files
+    # cp /tmp/* /mnt/etc
+11. Dellsetup automatically used dsk/1s1 as /home2 
+    # vi /mnt/etc/vfstab 
+    remove the last line
+12. Install boot
+    # dellboot /mnt/etc/boot /dev/rdsk/0s0
+13. Configure network 
+    # /mnt/usr/sbin/setnodename -r /mnt
+14. Clean up
+    # cd /
+    # sync
+    # umount /mnt/home2
+    # umount /mnt/home
+    # umount /mnt/stand
+    # umount /mnt
+    # sync
+15. Reboot / set boot to c
+16. Boot from c and go through configuration steps
+17. Preload file2 to the slice 1 - see #8
+18. Install additional packages
+    # pkgadd -d /dev/dsk/1s1
+    all
+19. The default mouse manager is not very happy about the bochs mouse. To use X11 you
+    can enable serial mouse in bochs, then edit /usr/lib/X11/Xconfig, disable Xqueue
+    and enable Microsoft mouse.
+    # kill mouse mgr process
+    # rm /etc/rc2.d/S25mse
+    # startx
