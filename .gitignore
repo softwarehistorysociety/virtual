@@ -3,7 +3,8 @@
 *.aar
 *.ap_
 *.aab
-
+*.img
+*.7z
 # Files for the ART/Dalvik VM
 *.dex
 
@@ -83,3 +84,6 @@ lint/generated/
 lint/outputs/
 lint/tmp/
 # lint/reports/
+
+DELL Unix System V Release 4.0 Issue 2.2 (1992) (3.5-1.44mb) (Tape cpio)\Tape Images (cpio)\file2
+*file2
